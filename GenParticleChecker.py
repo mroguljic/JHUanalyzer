@@ -23,14 +23,14 @@ class GenParticleTree:
 
     def AddParticle(self, mygenpart):
         self.staged_node = mygenpart
-        # From old Update() which doesn't work
         # First check if current heads don't have new parents and remove them from heads if they do
         heads_to_delete = []
         for i, head in enumerate(self.heads):
             if head.motherIdx == self.staged_node.idx:
                 heads_to_delete.append(i)
-        for h in heads_to_delete:
-            del self.heads[h]
+
+        for ih in sorted(heads_to_delete, reverse=True): # need to delete indices in reverse order so as not to shift indices after a deletion
+            del self.heads[ih]
 
         # Next identify staged node has no parent (heads)
         # If no parent, no other info we can get from this particle
@@ -56,51 +56,70 @@ class GenParticleTree:
             children.append(self.nodes[i])
         return children
 
+    def GetParent(self,particle):
+        if len(particle.parentIndex) == 0:
+            return False
+        else:
+            return self.nodes[particle.parentIndex[0]]
+
     def GetParents(self,particle):
         parents = []
         for i in particle.parentIndex:
             parents.append(self.nodes[i])
         return parents
 
-    # def FindChain(self,chain): #chain is string of format 'A>B>C'
-    #     particlenames_in_chain = [p.rstrip() for p in chain.split('>')]
+    def MatchParticleToString(self,part,string):
+        # print 'Matching %s/%s to %s' %(part.name,part.pdgId,string)
+        if ':' in string:
+            pdgIds = range(int(string.split(':')[0]),int(string.split(':')[1])+1)
+        elif ',' in string:
+            pdgIds = [int(s) for s in string.split(',')]
+        else: pdgIds = False
 
-    #     chains = [] # to be returned
-    #     # Loop over all particles that could be the start of a chain
-    #     for tree_particle in [n for n in self.nodes if n.name == particlenames_in_chain[0] or n.pdgId == particlenames_in_chain[0]]:
-    #         cursor_position = 1 # Cursor at 1st position now (starting at 0 in line above)
-    #         candidate_chain = [tree_particle] # Reinitialize chains to this new chain
+        if pdgIds == False:
+            if part.name == string or abs(part.pdgId) == int(string): return True
+            else: return False
+        else:
+            if abs(part.pdgId) in pdgIds: return True
+            else: return False
 
-    #         # While we haven't reached the end of the chain...
-    #         while cursor_position < len(particlenames_in_chain):
-    #             cursor_position += 1
-    #             # Any children with same pdgId or name as current or previous chain item (allows for duplication of particles)
-    #             next_particles = [self.nodes[i] for i in tree_particle.childIndex if (self.nodes[i].name == particlenames_in_chain[cursor_position]) or (self.nodes[i].pdgId == particlenames_in_chain[cursor_position]) or (self.nodes[i].name == particlenames_in_chain[cursor_position-1]) or (self.nodes[i].pdgId == particlenames_in_chain[cursor_position-1])] # Get the children
+    def RunChain(self,node,chain):
+        # print 'Chain: %s' % chain
+        # print 'Current node: %s'%node.pdgId
+        nodechain = [node]
+        parent = self.GetParent(node)
+        if len(chain) == 0: 
+            pass
+        elif parent == False:
+            # print 'Parent is false'
+            nodechain.append(False)
+        elif self.MatchParticleToString(parent,chain[0]):
+            # print 'Match found for %s, %s. Evaluating %s, %s' %(parent.pdgId,chain[0],[parent.pdgId],chain[1:])
+            nodechain.extend(self.RunChain(parent,chain[1:]))
+        elif parent.pdgId == node.pdgId:
+            # print 'Parent is copy. Evaluating %s, %s' %([parent.pdgId],chain)
+            nodechain.extend(self.RunChain(parent,chain))
+        else:
+            # print 'No candidate parent. Parent.pdgId is %s. Looking for %s' % (parent.pdgId,chain)
+            nodechain.append(False)
 
-    #             # If no candidate children, move on
-    #             if len(next_particles) < 1:
-    #                 break
-    #             elif len(next_particles) == 1:
-    #                 candidate_chain.append(next_particles[0])
-    #             else:
-    #                 # Setup new chain which for multiple child particles of original looks like [[tree_particle,child1],[tree_particle,child2],..]
-    #                 new_chain = []
-    #                 for np in next_particles:
-    #                     new_chain.append(candidate_chain+[np])
-    #                 candidate_chain = new_chain
+        return nodechain
 
+    def FindChain(self,chainstring):
+        reveresedchain = chainstring.split('>')
+        reveresedchain.reverse()
 
-    #         # If we never covered the full chain (a break was called in the while loop above), try the next 0th particle
-    #         if cursor_position < len(particlenames_in_chain)-1: 
-    #             continue
-    #         elif cursor_position == len(particlenames_in_chain)-1: # found a chain
-    #             chains.append(candidate_chain)
+        returnresult = []
 
+        for n in self.nodes: 
+            if self.MatchParticleToString(n,reveresedchain[0]):
+                chainresult = self.RunChain(n,reveresedchain[1:])
+                if False not in chainresult: returnresult.append(chainresult)
 
-    #     print chains
+        if len(returnresult) == 0: return False
+        else: return returnresult
 
-
-    def PrintTree(self,ievent,options=[]):  # final option is list of other attributes of GenParticleObj to draw
+    def PrintTree(self,ievent,options=[],name='test',jet=None):  # final option is list of other attributes of GenParticleObj to draw
         from graphviz import Digraph
         dot = Digraph(comment='Particle tree for event '+str(ievent))
         for n in self.nodes:
@@ -117,11 +136,14 @@ class GenParticleTree:
                 else:
                     this_node_label += '\n%s=%s'%(o,getattr(n,o))
 
+            if jet != None:
+                this_node_label += '\n%s=%.2f'%('\Delta R with jet',n.vect.DeltaR(jet))
+
             dot.node(this_node_name, this_node_label)
             for ichild in n.childIndex:
                 dot.edge(this_node_name, 'idx_'+str(self.nodes[ichild].idx))
         
-        dot.render('particle_trees/test.gv',view=True)
+        dot.render('particle_trees/'+name+'_'+str(ievent))
 
 
 class GenParticleObj:
@@ -177,10 +199,13 @@ class GenParticleObj:
     # Compare to jet and do basic tests of proximity
     def CompareToJet(self,jetvect):
         sameHemisphere = True if self.vect.DeltaPhi(jetvect) < math.pi else False
-        deltaR = self.vect.DeltaR() < 0.8
+        deltaR = self.vect.DeltaR(jetvect) < 0.8
         deltaM = (abs(jetvect.M() - self.vect.M())/self.vect.M() < 0.05)
 
         return {'sameHemisphere':sameHemisphere,'deltaR':deltaR,'deltaM':deltaM}
+
+    def DeltaR(self,vect):
+        return self.vect.DeltaR(vect)
 
     # Set individual flags
     def SetStatusFlags(self):

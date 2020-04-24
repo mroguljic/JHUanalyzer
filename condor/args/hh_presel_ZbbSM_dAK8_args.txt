@@ -1,0 +1,884 @@
+-s ttbar -r deepTagMD_ZHbbvsQCD -n 40 -j 1 -y 16 -d deepTagMD_ZHbbvsQCD
+-s ttbar -r deepTagMD_ZHbbvsQCD -n 40 -j 2 -y 16 -d deepTagMD_ZHbbvsQCD
+-s ttbar -r deepTagMD_ZHbbvsQCD -n 40 -j 3 -y 16 -d deepTagMD_ZHbbvsQCD
+-s ttbar -r deepTagMD_ZHbbvsQCD -n 40 -j 4 -y 16 -d deepTagMD_ZHbbvsQCD
+-s ttbar -r deepTagMD_ZHbbvsQCD -n 40 -j 5 -y 16 -d deepTagMD_ZHbbvsQCD
+-s ttbar -r deepTagMD_ZHbbvsQCD -n 40 -j 6 -y 16 -d deepTagMD_ZHbbvsQCD
+-s ttbar -r deepTagMD_ZHbbvsQCD -n 40 -j 7 -y 16 -d deepTagMD_ZHbbvsQCD
+-s ttbar -r deepTagMD_ZHbbvsQCD -n 40 -j 8 -y 16 -d deepTagMD_ZHbbvsQCD
+-s ttbar -r deepTagMD_ZHbbvsQCD -n 40 -j 9 -y 16 -d deepTagMD_ZHbbvsQCD
+-s ttbar -r deepTagMD_ZHbbvsQCD -n 40 -j 10 -y 16 -d deepTagMD_ZHbbvsQCD
+-s ttbar -r deepTagMD_ZHbbvsQCD -n 40 -j 11 -y 16 -d deepTagMD_ZHbbvsQCD
+-s ttbar -r deepTagMD_ZHbbvsQCD -n 40 -j 12 -y 16 -d deepTagMD_ZHbbvsQCD
+-s ttbar -r deepTagMD_ZHbbvsQCD -n 40 -j 13 -y 16 -d deepTagMD_ZHbbvsQCD
+-s ttbar -r deepTagMD_ZHbbvsQCD -n 40 -j 14 -y 16 -d deepTagMD_ZHbbvsQCD
+-s ttbar -r deepTagMD_ZHbbvsQCD -n 40 -j 15 -y 16 -d deepTagMD_ZHbbvsQCD
+-s ttbar -r deepTagMD_ZHbbvsQCD -n 40 -j 16 -y 16 -d deepTagMD_ZHbbvsQCD
+-s ttbar -r deepTagMD_ZHbbvsQCD -n 40 -j 17 -y 16 -d deepTagMD_ZHbbvsQCD
+-s ttbar -r deepTagMD_ZHbbvsQCD -n 40 -j 18 -y 16 -d deepTagMD_ZHbbvsQCD
+-s ttbar -r deepTagMD_ZHbbvsQCD -n 40 -j 19 -y 16 -d deepTagMD_ZHbbvsQCD
+-s ttbar -r deepTagMD_ZHbbvsQCD -n 40 -j 20 -y 16 -d deepTagMD_ZHbbvsQCD
+-s ttbar -r deepTagMD_ZHbbvsQCD -n 40 -j 21 -y 16 -d deepTagMD_ZHbbvsQCD
+-s ttbar -r deepTagMD_ZHbbvsQCD -n 40 -j 22 -y 16 -d deepTagMD_ZHbbvsQCD
+-s ttbar -r deepTagMD_ZHbbvsQCD -n 40 -j 23 -y 16 -d deepTagMD_ZHbbvsQCD
+-s ttbar -r deepTagMD_ZHbbvsQCD -n 40 -j 24 -y 16 -d deepTagMD_ZHbbvsQCD
+-s ttbar -r deepTagMD_ZHbbvsQCD -n 40 -j 25 -y 16 -d deepTagMD_ZHbbvsQCD
+-s ttbar -r deepTagMD_ZHbbvsQCD -n 40 -j 26 -y 16 -d deepTagMD_ZHbbvsQCD
+-s ttbar -r deepTagMD_ZHbbvsQCD -n 40 -j 27 -y 16 -d deepTagMD_ZHbbvsQCD
+-s ttbar -r deepTagMD_ZHbbvsQCD -n 40 -j 28 -y 16 -d deepTagMD_ZHbbvsQCD
+-s ttbar -r deepTagMD_ZHbbvsQCD -n 40 -j 29 -y 16 -d deepTagMD_ZHbbvsQCD
+-s ttbar -r deepTagMD_ZHbbvsQCD -n 40 -j 30 -y 16 -d deepTagMD_ZHbbvsQCD
+-s ttbar -r deepTagMD_ZHbbvsQCD -n 40 -j 31 -y 16 -d deepTagMD_ZHbbvsQCD
+-s ttbar -r deepTagMD_ZHbbvsQCD -n 40 -j 32 -y 16 -d deepTagMD_ZHbbvsQCD
+-s ttbar -r deepTagMD_ZHbbvsQCD -n 40 -j 33 -y 16 -d deepTagMD_ZHbbvsQCD
+-s ttbar -r deepTagMD_ZHbbvsQCD -n 40 -j 34 -y 16 -d deepTagMD_ZHbbvsQCD
+-s ttbar -r deepTagMD_ZHbbvsQCD -n 40 -j 35 -y 16 -d deepTagMD_ZHbbvsQCD
+-s ttbar -r deepTagMD_ZHbbvsQCD -n 40 -j 36 -y 16 -d deepTagMD_ZHbbvsQCD
+-s ttbar -r deepTagMD_ZHbbvsQCD -n 40 -j 37 -y 16 -d deepTagMD_ZHbbvsQCD
+-s ttbar -r deepTagMD_ZHbbvsQCD -n 40 -j 38 -y 16 -d deepTagMD_ZHbbvsQCD
+-s ttbar -r deepTagMD_ZHbbvsQCD -n 40 -j 39 -y 16 -d deepTagMD_ZHbbvsQCD
+-s ttbar -r deepTagMD_ZHbbvsQCD -n 40 -j 40 -y 16 -d deepTagMD_ZHbbvsQCD
+
+-s singlemuonB2 -r deepTagMD_ZHbbvsQCD -n 20 -j 1 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonB2 -r deepTagMD_ZHbbvsQCD -n 20 -j 2 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonB2 -r deepTagMD_ZHbbvsQCD -n 20 -j 3 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonB2 -r deepTagMD_ZHbbvsQCD -n 20 -j 4 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonB2 -r deepTagMD_ZHbbvsQCD -n 20 -j 5 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonB2 -r deepTagMD_ZHbbvsQCD -n 20 -j 6 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonB2 -r deepTagMD_ZHbbvsQCD -n 20 -j 7 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonB2 -r deepTagMD_ZHbbvsQCD -n 20 -j 8 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonB2 -r deepTagMD_ZHbbvsQCD -n 20 -j 9 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonB2 -r deepTagMD_ZHbbvsQCD -n 20 -j 10 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonB2 -r deepTagMD_ZHbbvsQCD -n 20 -j 11 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonB2 -r deepTagMD_ZHbbvsQCD -n 20 -j 12 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonB2 -r deepTagMD_ZHbbvsQCD -n 20 -j 13 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonB2 -r deepTagMD_ZHbbvsQCD -n 20 -j 14 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonB2 -r deepTagMD_ZHbbvsQCD -n 20 -j 15 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonB2 -r deepTagMD_ZHbbvsQCD -n 20 -j 16 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonB2 -r deepTagMD_ZHbbvsQCD -n 20 -j 17 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonB2 -r deepTagMD_ZHbbvsQCD -n 20 -j 18 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonB2 -r deepTagMD_ZHbbvsQCD -n 20 -j 19 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonB2 -r deepTagMD_ZHbbvsQCD -n 20 -j 20 -y 16 -d deepTagMD_ZHbbvsQCD
+
+-s singlemuonC -r deepTagMD_ZHbbvsQCD -n 20 -j 1 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonC -r deepTagMD_ZHbbvsQCD -n 20 -j 2 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonC -r deepTagMD_ZHbbvsQCD -n 20 -j 3 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonC -r deepTagMD_ZHbbvsQCD -n 20 -j 4 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonC -r deepTagMD_ZHbbvsQCD -n 20 -j 5 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonC -r deepTagMD_ZHbbvsQCD -n 20 -j 6 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonC -r deepTagMD_ZHbbvsQCD -n 20 -j 7 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonC -r deepTagMD_ZHbbvsQCD -n 20 -j 8 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonC -r deepTagMD_ZHbbvsQCD -n 20 -j 9 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonC -r deepTagMD_ZHbbvsQCD -n 20 -j 10 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonC -r deepTagMD_ZHbbvsQCD -n 20 -j 11 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonC -r deepTagMD_ZHbbvsQCD -n 20 -j 12 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonC -r deepTagMD_ZHbbvsQCD -n 20 -j 13 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonC -r deepTagMD_ZHbbvsQCD -n 20 -j 14 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonC -r deepTagMD_ZHbbvsQCD -n 20 -j 15 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonC -r deepTagMD_ZHbbvsQCD -n 20 -j 16 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonC -r deepTagMD_ZHbbvsQCD -n 20 -j 17 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonC -r deepTagMD_ZHbbvsQCD -n 20 -j 18 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonC -r deepTagMD_ZHbbvsQCD -n 20 -j 19 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonC -r deepTagMD_ZHbbvsQCD -n 20 -j 20 -y 16 -d deepTagMD_ZHbbvsQCD
+
+-s singlemuonD -r deepTagMD_ZHbbvsQCD -n 20 -j 1 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonD -r deepTagMD_ZHbbvsQCD -n 20 -j 2 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonD -r deepTagMD_ZHbbvsQCD -n 20 -j 3 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonD -r deepTagMD_ZHbbvsQCD -n 20 -j 4 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonD -r deepTagMD_ZHbbvsQCD -n 20 -j 5 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonD -r deepTagMD_ZHbbvsQCD -n 20 -j 6 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonD -r deepTagMD_ZHbbvsQCD -n 20 -j 7 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonD -r deepTagMD_ZHbbvsQCD -n 20 -j 8 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonD -r deepTagMD_ZHbbvsQCD -n 20 -j 9 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonD -r deepTagMD_ZHbbvsQCD -n 20 -j 10 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonD -r deepTagMD_ZHbbvsQCD -n 20 -j 11 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonD -r deepTagMD_ZHbbvsQCD -n 20 -j 12 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonD -r deepTagMD_ZHbbvsQCD -n 20 -j 13 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonD -r deepTagMD_ZHbbvsQCD -n 20 -j 14 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonD -r deepTagMD_ZHbbvsQCD -n 20 -j 15 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonD -r deepTagMD_ZHbbvsQCD -n 20 -j 16 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonD -r deepTagMD_ZHbbvsQCD -n 20 -j 17 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonD -r deepTagMD_ZHbbvsQCD -n 20 -j 18 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonD -r deepTagMD_ZHbbvsQCD -n 20 -j 19 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonD -r deepTagMD_ZHbbvsQCD -n 20 -j 20 -y 16 -d deepTagMD_ZHbbvsQCD
+
+-s singlemuonE -r deepTagMD_ZHbbvsQCD -n 20 -j 1 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonE -r deepTagMD_ZHbbvsQCD -n 20 -j 2 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonE -r deepTagMD_ZHbbvsQCD -n 20 -j 3 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonE -r deepTagMD_ZHbbvsQCD -n 20 -j 4 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonE -r deepTagMD_ZHbbvsQCD -n 20 -j 5 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonE -r deepTagMD_ZHbbvsQCD -n 20 -j 6 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonE -r deepTagMD_ZHbbvsQCD -n 20 -j 7 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonE -r deepTagMD_ZHbbvsQCD -n 20 -j 8 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonE -r deepTagMD_ZHbbvsQCD -n 20 -j 9 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonE -r deepTagMD_ZHbbvsQCD -n 20 -j 10 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonE -r deepTagMD_ZHbbvsQCD -n 20 -j 11 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonE -r deepTagMD_ZHbbvsQCD -n 20 -j 12 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonE -r deepTagMD_ZHbbvsQCD -n 20 -j 13 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonE -r deepTagMD_ZHbbvsQCD -n 20 -j 14 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonE -r deepTagMD_ZHbbvsQCD -n 20 -j 15 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonE -r deepTagMD_ZHbbvsQCD -n 20 -j 16 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonE -r deepTagMD_ZHbbvsQCD -n 20 -j 17 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonE -r deepTagMD_ZHbbvsQCD -n 20 -j 18 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonE -r deepTagMD_ZHbbvsQCD -n 20 -j 19 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonE -r deepTagMD_ZHbbvsQCD -n 20 -j 20 -y 16 -d deepTagMD_ZHbbvsQCD
+
+-s singlemuonF -r deepTagMD_ZHbbvsQCD -n 20 -j 1 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonF -r deepTagMD_ZHbbvsQCD -n 20 -j 2 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonF -r deepTagMD_ZHbbvsQCD -n 20 -j 3 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonF -r deepTagMD_ZHbbvsQCD -n 20 -j 4 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonF -r deepTagMD_ZHbbvsQCD -n 20 -j 5 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonF -r deepTagMD_ZHbbvsQCD -n 20 -j 6 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonF -r deepTagMD_ZHbbvsQCD -n 20 -j 7 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonF -r deepTagMD_ZHbbvsQCD -n 20 -j 8 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonF -r deepTagMD_ZHbbvsQCD -n 20 -j 9 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonF -r deepTagMD_ZHbbvsQCD -n 20 -j 10 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonF -r deepTagMD_ZHbbvsQCD -n 20 -j 11 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonF -r deepTagMD_ZHbbvsQCD -n 20 -j 12 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonF -r deepTagMD_ZHbbvsQCD -n 20 -j 13 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonF -r deepTagMD_ZHbbvsQCD -n 20 -j 14 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonF -r deepTagMD_ZHbbvsQCD -n 20 -j 15 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonF -r deepTagMD_ZHbbvsQCD -n 20 -j 16 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonF -r deepTagMD_ZHbbvsQCD -n 20 -j 17 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonF -r deepTagMD_ZHbbvsQCD -n 20 -j 18 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonF -r deepTagMD_ZHbbvsQCD -n 20 -j 19 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonF -r deepTagMD_ZHbbvsQCD -n 20 -j 20 -y 16 -d deepTagMD_ZHbbvsQCD
+
+-s singlemuonG -r deepTagMD_ZHbbvsQCD -n 20 -j 1 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonG -r deepTagMD_ZHbbvsQCD -n 20 -j 2 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonG -r deepTagMD_ZHbbvsQCD -n 20 -j 3 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonG -r deepTagMD_ZHbbvsQCD -n 20 -j 4 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonG -r deepTagMD_ZHbbvsQCD -n 20 -j 5 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonG -r deepTagMD_ZHbbvsQCD -n 20 -j 6 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonG -r deepTagMD_ZHbbvsQCD -n 20 -j 7 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonG -r deepTagMD_ZHbbvsQCD -n 20 -j 8 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonG -r deepTagMD_ZHbbvsQCD -n 20 -j 9 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonG -r deepTagMD_ZHbbvsQCD -n 20 -j 10 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonG -r deepTagMD_ZHbbvsQCD -n 20 -j 11 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonG -r deepTagMD_ZHbbvsQCD -n 20 -j 12 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonG -r deepTagMD_ZHbbvsQCD -n 20 -j 13 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonG -r deepTagMD_ZHbbvsQCD -n 20 -j 14 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonG -r deepTagMD_ZHbbvsQCD -n 20 -j 15 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonG -r deepTagMD_ZHbbvsQCD -n 20 -j 16 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonG -r deepTagMD_ZHbbvsQCD -n 20 -j 17 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonG -r deepTagMD_ZHbbvsQCD -n 20 -j 18 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonG -r deepTagMD_ZHbbvsQCD -n 20 -j 19 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonG -r deepTagMD_ZHbbvsQCD -n 20 -j 20 -y 16 -d deepTagMD_ZHbbvsQCD
+
+-s singlemuonH -r deepTagMD_ZHbbvsQCD -n 20 -j 1 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonH -r deepTagMD_ZHbbvsQCD -n 20 -j 2 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonH -r deepTagMD_ZHbbvsQCD -n 20 -j 3 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonH -r deepTagMD_ZHbbvsQCD -n 20 -j 4 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonH -r deepTagMD_ZHbbvsQCD -n 20 -j 5 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonH -r deepTagMD_ZHbbvsQCD -n 20 -j 6 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonH -r deepTagMD_ZHbbvsQCD -n 20 -j 7 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonH -r deepTagMD_ZHbbvsQCD -n 20 -j 8 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonH -r deepTagMD_ZHbbvsQCD -n 20 -j 9 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonH -r deepTagMD_ZHbbvsQCD -n 20 -j 10 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonH -r deepTagMD_ZHbbvsQCD -n 20 -j 11 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonH -r deepTagMD_ZHbbvsQCD -n 20 -j 12 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonH -r deepTagMD_ZHbbvsQCD -n 20 -j 13 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonH -r deepTagMD_ZHbbvsQCD -n 20 -j 14 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonH -r deepTagMD_ZHbbvsQCD -n 20 -j 15 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonH -r deepTagMD_ZHbbvsQCD -n 20 -j 16 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonH -r deepTagMD_ZHbbvsQCD -n 20 -j 17 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonH -r deepTagMD_ZHbbvsQCD -n 20 -j 18 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonH -r deepTagMD_ZHbbvsQCD -n 20 -j 19 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singlemuonH -r deepTagMD_ZHbbvsQCD -n 20 -j 20 -y 16 -d deepTagMD_ZHbbvsQCD
+
+ -s QCDHT700 -r deepTagMD_ZHbbvsQCD -n 80 -j 1 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700 -r deepTagMD_ZHbbvsQCD -n 80 -j 2 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700 -r deepTagMD_ZHbbvsQCD -n 80 -j 3 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700 -r deepTagMD_ZHbbvsQCD -n 80 -j 4 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700 -r deepTagMD_ZHbbvsQCD -n 80 -j 5 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700 -r deepTagMD_ZHbbvsQCD -n 80 -j 6 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700 -r deepTagMD_ZHbbvsQCD -n 80 -j 7 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700 -r deepTagMD_ZHbbvsQCD -n 80 -j 8 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700 -r deepTagMD_ZHbbvsQCD -n 80 -j 9 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700 -r deepTagMD_ZHbbvsQCD -n 80 -j 10 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700 -r deepTagMD_ZHbbvsQCD -n 80 -j 11 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700 -r deepTagMD_ZHbbvsQCD -n 80 -j 12 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700 -r deepTagMD_ZHbbvsQCD -n 80 -j 13 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700 -r deepTagMD_ZHbbvsQCD -n 80 -j 14 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700 -r deepTagMD_ZHbbvsQCD -n 80 -j 15 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700 -r deepTagMD_ZHbbvsQCD -n 80 -j 16 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700 -r deepTagMD_ZHbbvsQCD -n 80 -j 17 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700 -r deepTagMD_ZHbbvsQCD -n 80 -j 18 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700 -r deepTagMD_ZHbbvsQCD -n 80 -j 19 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700 -r deepTagMD_ZHbbvsQCD -n 80 -j 20 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700 -r deepTagMD_ZHbbvsQCD -n 80 -j 21 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700 -r deepTagMD_ZHbbvsQCD -n 80 -j 22 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700 -r deepTagMD_ZHbbvsQCD -n 80 -j 23 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700 -r deepTagMD_ZHbbvsQCD -n 80 -j 24 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700 -r deepTagMD_ZHbbvsQCD -n 80 -j 25 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700 -r deepTagMD_ZHbbvsQCD -n 80 -j 26 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700 -r deepTagMD_ZHbbvsQCD -n 80 -j 27 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700 -r deepTagMD_ZHbbvsQCD -n 80 -j 28 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700 -r deepTagMD_ZHbbvsQCD -n 80 -j 29 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700 -r deepTagMD_ZHbbvsQCD -n 80 -j 30 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700 -r deepTagMD_ZHbbvsQCD -n 80 -j 31 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700 -r deepTagMD_ZHbbvsQCD -n 80 -j 32 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700 -r deepTagMD_ZHbbvsQCD -n 80 -j 33 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700 -r deepTagMD_ZHbbvsQCD -n 80 -j 34 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700 -r deepTagMD_ZHbbvsQCD -n 80 -j 35 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700 -r deepTagMD_ZHbbvsQCD -n 80 -j 36 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700 -r deepTagMD_ZHbbvsQCD -n 80 -j 37 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700 -r deepTagMD_ZHbbvsQCD -n 80 -j 38 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700 -r deepTagMD_ZHbbvsQCD -n 80 -j 39 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700 -r deepTagMD_ZHbbvsQCD -n 80 -j 40 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700 -r deepTagMD_ZHbbvsQCD -n 80 -j 41 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700 -r deepTagMD_ZHbbvsQCD -n 80 -j 42 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700 -r deepTagMD_ZHbbvsQCD -n 80 -j 43 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700 -r deepTagMD_ZHbbvsQCD -n 80 -j 44 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700 -r deepTagMD_ZHbbvsQCD -n 80 -j 45 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700 -r deepTagMD_ZHbbvsQCD -n 80 -j 46 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700 -r deepTagMD_ZHbbvsQCD -n 80 -j 47 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700 -r deepTagMD_ZHbbvsQCD -n 80 -j 48 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700 -r deepTagMD_ZHbbvsQCD -n 80 -j 49 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700 -r deepTagMD_ZHbbvsQCD -n 80 -j 50 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700 -r deepTagMD_ZHbbvsQCD -n 80 -j 51 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700 -r deepTagMD_ZHbbvsQCD -n 80 -j 52 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700 -r deepTagMD_ZHbbvsQCD -n 80 -j 53 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700 -r deepTagMD_ZHbbvsQCD -n 80 -j 54 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700 -r deepTagMD_ZHbbvsQCD -n 80 -j 55 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700 -r deepTagMD_ZHbbvsQCD -n 80 -j 56 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700 -r deepTagMD_ZHbbvsQCD -n 80 -j 57 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700 -r deepTagMD_ZHbbvsQCD -n 80 -j 58 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700 -r deepTagMD_ZHbbvsQCD -n 80 -j 59 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700 -r deepTagMD_ZHbbvsQCD -n 80 -j 60 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700 -r deepTagMD_ZHbbvsQCD -n 80 -j 61 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700 -r deepTagMD_ZHbbvsQCD -n 80 -j 62 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700 -r deepTagMD_ZHbbvsQCD -n 80 -j 63 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700 -r deepTagMD_ZHbbvsQCD -n 80 -j 64 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700 -r deepTagMD_ZHbbvsQCD -n 80 -j 65 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700 -r deepTagMD_ZHbbvsQCD -n 80 -j 66 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700 -r deepTagMD_ZHbbvsQCD -n 80 -j 67 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700 -r deepTagMD_ZHbbvsQCD -n 80 -j 68 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700 -r deepTagMD_ZHbbvsQCD -n 80 -j 69 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700 -r deepTagMD_ZHbbvsQCD -n 80 -j 70 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700 -r deepTagMD_ZHbbvsQCD -n 80 -j 71 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700 -r deepTagMD_ZHbbvsQCD -n 80 -j 72 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700 -r deepTagMD_ZHbbvsQCD -n 80 -j 73 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700 -r deepTagMD_ZHbbvsQCD -n 80 -j 74 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700 -r deepTagMD_ZHbbvsQCD -n 80 -j 75 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700 -r deepTagMD_ZHbbvsQCD -n 80 -j 76 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700 -r deepTagMD_ZHbbvsQCD -n 80 -j 77 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700 -r deepTagMD_ZHbbvsQCD -n 80 -j 78 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700 -r deepTagMD_ZHbbvsQCD -n 80 -j 79 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700 -r deepTagMD_ZHbbvsQCD -n 80 -j 80 -y 16 -d deepTagMD_ZHbbvsQCD
+
+ -s QCDHT700ext -r deepTagMD_ZHbbvsQCD -n 80 -j 1 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700ext -r deepTagMD_ZHbbvsQCD -n 80 -j 2 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700ext -r deepTagMD_ZHbbvsQCD -n 80 -j 3 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700ext -r deepTagMD_ZHbbvsQCD -n 80 -j 4 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700ext -r deepTagMD_ZHbbvsQCD -n 80 -j 5 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700ext -r deepTagMD_ZHbbvsQCD -n 80 -j 6 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700ext -r deepTagMD_ZHbbvsQCD -n 80 -j 7 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700ext -r deepTagMD_ZHbbvsQCD -n 80 -j 8 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700ext -r deepTagMD_ZHbbvsQCD -n 80 -j 9 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700ext -r deepTagMD_ZHbbvsQCD -n 80 -j 10 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700ext -r deepTagMD_ZHbbvsQCD -n 80 -j 11 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700ext -r deepTagMD_ZHbbvsQCD -n 80 -j 12 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700ext -r deepTagMD_ZHbbvsQCD -n 80 -j 13 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700ext -r deepTagMD_ZHbbvsQCD -n 80 -j 14 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700ext -r deepTagMD_ZHbbvsQCD -n 80 -j 15 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700ext -r deepTagMD_ZHbbvsQCD -n 80 -j 16 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700ext -r deepTagMD_ZHbbvsQCD -n 80 -j 17 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700ext -r deepTagMD_ZHbbvsQCD -n 80 -j 18 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700ext -r deepTagMD_ZHbbvsQCD -n 80 -j 19 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700ext -r deepTagMD_ZHbbvsQCD -n 80 -j 20 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700ext -r deepTagMD_ZHbbvsQCD -n 80 -j 21 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700ext -r deepTagMD_ZHbbvsQCD -n 80 -j 22 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700ext -r deepTagMD_ZHbbvsQCD -n 80 -j 23 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700ext -r deepTagMD_ZHbbvsQCD -n 80 -j 24 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700ext -r deepTagMD_ZHbbvsQCD -n 80 -j 25 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700ext -r deepTagMD_ZHbbvsQCD -n 80 -j 26 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700ext -r deepTagMD_ZHbbvsQCD -n 80 -j 27 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700ext -r deepTagMD_ZHbbvsQCD -n 80 -j 28 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700ext -r deepTagMD_ZHbbvsQCD -n 80 -j 29 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700ext -r deepTagMD_ZHbbvsQCD -n 80 -j 30 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700ext -r deepTagMD_ZHbbvsQCD -n 80 -j 31 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700ext -r deepTagMD_ZHbbvsQCD -n 80 -j 32 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700ext -r deepTagMD_ZHbbvsQCD -n 80 -j 33 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700ext -r deepTagMD_ZHbbvsQCD -n 80 -j 34 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700ext -r deepTagMD_ZHbbvsQCD -n 80 -j 35 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700ext -r deepTagMD_ZHbbvsQCD -n 80 -j 36 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700ext -r deepTagMD_ZHbbvsQCD -n 80 -j 37 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700ext -r deepTagMD_ZHbbvsQCD -n 80 -j 38 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700ext -r deepTagMD_ZHbbvsQCD -n 80 -j 39 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700ext -r deepTagMD_ZHbbvsQCD -n 80 -j 40 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700ext -r deepTagMD_ZHbbvsQCD -n 80 -j 41 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700ext -r deepTagMD_ZHbbvsQCD -n 80 -j 42 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700ext -r deepTagMD_ZHbbvsQCD -n 80 -j 43 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700ext -r deepTagMD_ZHbbvsQCD -n 80 -j 44 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700ext -r deepTagMD_ZHbbvsQCD -n 80 -j 45 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700ext -r deepTagMD_ZHbbvsQCD -n 80 -j 46 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700ext -r deepTagMD_ZHbbvsQCD -n 80 -j 47 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700ext -r deepTagMD_ZHbbvsQCD -n 80 -j 48 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700ext -r deepTagMD_ZHbbvsQCD -n 80 -j 49 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700ext -r deepTagMD_ZHbbvsQCD -n 80 -j 50 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700ext -r deepTagMD_ZHbbvsQCD -n 80 -j 51 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700ext -r deepTagMD_ZHbbvsQCD -n 80 -j 52 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700ext -r deepTagMD_ZHbbvsQCD -n 80 -j 53 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700ext -r deepTagMD_ZHbbvsQCD -n 80 -j 54 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700ext -r deepTagMD_ZHbbvsQCD -n 80 -j 55 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700ext -r deepTagMD_ZHbbvsQCD -n 80 -j 56 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700ext -r deepTagMD_ZHbbvsQCD -n 80 -j 57 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700ext -r deepTagMD_ZHbbvsQCD -n 80 -j 58 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700ext -r deepTagMD_ZHbbvsQCD -n 80 -j 59 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700ext -r deepTagMD_ZHbbvsQCD -n 80 -j 60 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700ext -r deepTagMD_ZHbbvsQCD -n 80 -j 61 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700ext -r deepTagMD_ZHbbvsQCD -n 80 -j 62 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700ext -r deepTagMD_ZHbbvsQCD -n 80 -j 63 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700ext -r deepTagMD_ZHbbvsQCD -n 80 -j 64 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700ext -r deepTagMD_ZHbbvsQCD -n 80 -j 65 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700ext -r deepTagMD_ZHbbvsQCD -n 80 -j 66 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700ext -r deepTagMD_ZHbbvsQCD -n 80 -j 67 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700ext -r deepTagMD_ZHbbvsQCD -n 80 -j 68 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700ext -r deepTagMD_ZHbbvsQCD -n 80 -j 69 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700ext -r deepTagMD_ZHbbvsQCD -n 80 -j 70 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700ext -r deepTagMD_ZHbbvsQCD -n 80 -j 71 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700ext -r deepTagMD_ZHbbvsQCD -n 80 -j 72 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700ext -r deepTagMD_ZHbbvsQCD -n 80 -j 73 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700ext -r deepTagMD_ZHbbvsQCD -n 80 -j 74 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700ext -r deepTagMD_ZHbbvsQCD -n 80 -j 75 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700ext -r deepTagMD_ZHbbvsQCD -n 80 -j 76 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700ext -r deepTagMD_ZHbbvsQCD -n 80 -j 77 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700ext -r deepTagMD_ZHbbvsQCD -n 80 -j 78 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700ext -r deepTagMD_ZHbbvsQCD -n 80 -j 79 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT700ext -r deepTagMD_ZHbbvsQCD -n 80 -j 80 -y 16 -d deepTagMD_ZHbbvsQCD
+
+ -s QCDHT1000 -r deepTagMD_ZHbbvsQCD -n 80 -j 1 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000 -r deepTagMD_ZHbbvsQCD -n 80 -j 2 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000 -r deepTagMD_ZHbbvsQCD -n 80 -j 3 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000 -r deepTagMD_ZHbbvsQCD -n 80 -j 4 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000 -r deepTagMD_ZHbbvsQCD -n 80 -j 5 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000 -r deepTagMD_ZHbbvsQCD -n 80 -j 6 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000 -r deepTagMD_ZHbbvsQCD -n 80 -j 7 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000 -r deepTagMD_ZHbbvsQCD -n 80 -j 8 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000 -r deepTagMD_ZHbbvsQCD -n 80 -j 9 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000 -r deepTagMD_ZHbbvsQCD -n 80 -j 10 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000 -r deepTagMD_ZHbbvsQCD -n 80 -j 11 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000 -r deepTagMD_ZHbbvsQCD -n 80 -j 12 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000 -r deepTagMD_ZHbbvsQCD -n 80 -j 13 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000 -r deepTagMD_ZHbbvsQCD -n 80 -j 14 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000 -r deepTagMD_ZHbbvsQCD -n 80 -j 15 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000 -r deepTagMD_ZHbbvsQCD -n 80 -j 16 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000 -r deepTagMD_ZHbbvsQCD -n 80 -j 17 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000 -r deepTagMD_ZHbbvsQCD -n 80 -j 18 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000 -r deepTagMD_ZHbbvsQCD -n 80 -j 19 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000 -r deepTagMD_ZHbbvsQCD -n 80 -j 20 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000 -r deepTagMD_ZHbbvsQCD -n 80 -j 21 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000 -r deepTagMD_ZHbbvsQCD -n 80 -j 22 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000 -r deepTagMD_ZHbbvsQCD -n 80 -j 23 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000 -r deepTagMD_ZHbbvsQCD -n 80 -j 24 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000 -r deepTagMD_ZHbbvsQCD -n 80 -j 25 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000 -r deepTagMD_ZHbbvsQCD -n 80 -j 26 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000 -r deepTagMD_ZHbbvsQCD -n 80 -j 27 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000 -r deepTagMD_ZHbbvsQCD -n 80 -j 28 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000 -r deepTagMD_ZHbbvsQCD -n 80 -j 29 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000 -r deepTagMD_ZHbbvsQCD -n 80 -j 30 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000 -r deepTagMD_ZHbbvsQCD -n 80 -j 31 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000 -r deepTagMD_ZHbbvsQCD -n 80 -j 32 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000 -r deepTagMD_ZHbbvsQCD -n 80 -j 33 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000 -r deepTagMD_ZHbbvsQCD -n 80 -j 34 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000 -r deepTagMD_ZHbbvsQCD -n 80 -j 35 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000 -r deepTagMD_ZHbbvsQCD -n 80 -j 36 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000 -r deepTagMD_ZHbbvsQCD -n 80 -j 37 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000 -r deepTagMD_ZHbbvsQCD -n 80 -j 38 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000 -r deepTagMD_ZHbbvsQCD -n 80 -j 39 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000 -r deepTagMD_ZHbbvsQCD -n 80 -j 40 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000 -r deepTagMD_ZHbbvsQCD -n 80 -j 41 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000 -r deepTagMD_ZHbbvsQCD -n 80 -j 42 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000 -r deepTagMD_ZHbbvsQCD -n 80 -j 43 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000 -r deepTagMD_ZHbbvsQCD -n 80 -j 44 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000 -r deepTagMD_ZHbbvsQCD -n 80 -j 45 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000 -r deepTagMD_ZHbbvsQCD -n 80 -j 46 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000 -r deepTagMD_ZHbbvsQCD -n 80 -j 47 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000 -r deepTagMD_ZHbbvsQCD -n 80 -j 48 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000 -r deepTagMD_ZHbbvsQCD -n 80 -j 49 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000 -r deepTagMD_ZHbbvsQCD -n 80 -j 50 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000 -r deepTagMD_ZHbbvsQCD -n 80 -j 51 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000 -r deepTagMD_ZHbbvsQCD -n 80 -j 52 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000 -r deepTagMD_ZHbbvsQCD -n 80 -j 53 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000 -r deepTagMD_ZHbbvsQCD -n 80 -j 54 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000 -r deepTagMD_ZHbbvsQCD -n 80 -j 55 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000 -r deepTagMD_ZHbbvsQCD -n 80 -j 56 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000 -r deepTagMD_ZHbbvsQCD -n 80 -j 57 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000 -r deepTagMD_ZHbbvsQCD -n 80 -j 58 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000 -r deepTagMD_ZHbbvsQCD -n 80 -j 59 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000 -r deepTagMD_ZHbbvsQCD -n 80 -j 60 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000 -r deepTagMD_ZHbbvsQCD -n 80 -j 61 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000 -r deepTagMD_ZHbbvsQCD -n 80 -j 62 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000 -r deepTagMD_ZHbbvsQCD -n 80 -j 63 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000 -r deepTagMD_ZHbbvsQCD -n 80 -j 64 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000 -r deepTagMD_ZHbbvsQCD -n 80 -j 65 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000 -r deepTagMD_ZHbbvsQCD -n 80 -j 66 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000 -r deepTagMD_ZHbbvsQCD -n 80 -j 67 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000 -r deepTagMD_ZHbbvsQCD -n 80 -j 68 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000 -r deepTagMD_ZHbbvsQCD -n 80 -j 69 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000 -r deepTagMD_ZHbbvsQCD -n 80 -j 70 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000 -r deepTagMD_ZHbbvsQCD -n 80 -j 71 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000 -r deepTagMD_ZHbbvsQCD -n 80 -j 72 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000 -r deepTagMD_ZHbbvsQCD -n 80 -j 73 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000 -r deepTagMD_ZHbbvsQCD -n 80 -j 74 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000 -r deepTagMD_ZHbbvsQCD -n 80 -j 75 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000 -r deepTagMD_ZHbbvsQCD -n 80 -j 76 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000 -r deepTagMD_ZHbbvsQCD -n 80 -j 77 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000 -r deepTagMD_ZHbbvsQCD -n 80 -j 78 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000 -r deepTagMD_ZHbbvsQCD -n 80 -j 79 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000 -r deepTagMD_ZHbbvsQCD -n 80 -j 80 -y 16 -d deepTagMD_ZHbbvsQCD
+
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 1 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 2 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 3 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 4 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 5 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 6 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 7 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 8 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 9 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 10 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 11 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 12 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 13 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 14 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 15 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 16 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 17 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 18 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 19 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 20 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 21 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 22 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 23 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 24 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 25 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 26 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 27 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 28 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 29 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 30 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 31 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 32 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 33 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 34 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 35 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 36 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 37 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 38 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 39 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 40 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 41 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 42 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 43 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 44 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 45 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 46 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 47 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 48 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 49 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 50 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 51 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 52 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 53 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 54 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 55 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 56 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 57 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 58 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 59 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 60 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 61 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 62 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 63 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 64 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 65 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 66 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 67 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 68 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 69 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 70 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 71 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 72 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 73 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 74 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 75 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 76 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 77 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 78 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 79 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 80 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 81 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 82 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 83 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 84 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 85 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 86 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 87 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 88 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 89 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 90 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 91 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 92 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 93 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 94 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 95 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 96 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 97 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 98 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 99 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1000ext -r deepTagMD_ZHbbvsQCD -n 100 -j 100 -y 16 -d deepTagMD_ZHbbvsQCD
+
+ -s QCDHT1500 -r deepTagMD_ZHbbvsQCD -n 40 -j 1 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500 -r deepTagMD_ZHbbvsQCD -n 40 -j 2 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500 -r deepTagMD_ZHbbvsQCD -n 40 -j 3 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500 -r deepTagMD_ZHbbvsQCD -n 40 -j 4 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500 -r deepTagMD_ZHbbvsQCD -n 40 -j 5 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500 -r deepTagMD_ZHbbvsQCD -n 40 -j 6 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500 -r deepTagMD_ZHbbvsQCD -n 40 -j 7 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500 -r deepTagMD_ZHbbvsQCD -n 40 -j 8 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500 -r deepTagMD_ZHbbvsQCD -n 40 -j 9 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500 -r deepTagMD_ZHbbvsQCD -n 40 -j 10 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500 -r deepTagMD_ZHbbvsQCD -n 40 -j 11 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500 -r deepTagMD_ZHbbvsQCD -n 40 -j 12 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500 -r deepTagMD_ZHbbvsQCD -n 40 -j 13 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500 -r deepTagMD_ZHbbvsQCD -n 40 -j 14 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500 -r deepTagMD_ZHbbvsQCD -n 40 -j 15 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500 -r deepTagMD_ZHbbvsQCD -n 40 -j 16 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500 -r deepTagMD_ZHbbvsQCD -n 40 -j 17 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500 -r deepTagMD_ZHbbvsQCD -n 40 -j 18 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500 -r deepTagMD_ZHbbvsQCD -n 40 -j 19 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500 -r deepTagMD_ZHbbvsQCD -n 40 -j 20 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500 -r deepTagMD_ZHbbvsQCD -n 40 -j 21 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500 -r deepTagMD_ZHbbvsQCD -n 40 -j 22 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500 -r deepTagMD_ZHbbvsQCD -n 40 -j 23 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500 -r deepTagMD_ZHbbvsQCD -n 40 -j 24 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500 -r deepTagMD_ZHbbvsQCD -n 40 -j 25 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500 -r deepTagMD_ZHbbvsQCD -n 40 -j 26 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500 -r deepTagMD_ZHbbvsQCD -n 40 -j 27 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500 -r deepTagMD_ZHbbvsQCD -n 40 -j 28 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500 -r deepTagMD_ZHbbvsQCD -n 40 -j 29 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500 -r deepTagMD_ZHbbvsQCD -n 40 -j 30 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500 -r deepTagMD_ZHbbvsQCD -n 40 -j 31 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500 -r deepTagMD_ZHbbvsQCD -n 40 -j 32 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500 -r deepTagMD_ZHbbvsQCD -n 40 -j 33 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500 -r deepTagMD_ZHbbvsQCD -n 40 -j 34 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500 -r deepTagMD_ZHbbvsQCD -n 40 -j 35 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500 -r deepTagMD_ZHbbvsQCD -n 40 -j 36 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500 -r deepTagMD_ZHbbvsQCD -n 40 -j 37 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500 -r deepTagMD_ZHbbvsQCD -n 40 -j 38 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500 -r deepTagMD_ZHbbvsQCD -n 40 -j 39 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500 -r deepTagMD_ZHbbvsQCD -n 40 -j 40 -y 16 -d deepTagMD_ZHbbvsQCD
+
+ -s QCDHT1500ext -r deepTagMD_ZHbbvsQCD -n 60 -j 1 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500ext -r deepTagMD_ZHbbvsQCD -n 60 -j 2 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500ext -r deepTagMD_ZHbbvsQCD -n 60 -j 3 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500ext -r deepTagMD_ZHbbvsQCD -n 60 -j 4 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500ext -r deepTagMD_ZHbbvsQCD -n 60 -j 5 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500ext -r deepTagMD_ZHbbvsQCD -n 60 -j 6 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500ext -r deepTagMD_ZHbbvsQCD -n 60 -j 7 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500ext -r deepTagMD_ZHbbvsQCD -n 60 -j 8 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500ext -r deepTagMD_ZHbbvsQCD -n 60 -j 9 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500ext -r deepTagMD_ZHbbvsQCD -n 60 -j 10 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500ext -r deepTagMD_ZHbbvsQCD -n 60 -j 11 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500ext -r deepTagMD_ZHbbvsQCD -n 60 -j 12 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500ext -r deepTagMD_ZHbbvsQCD -n 60 -j 13 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500ext -r deepTagMD_ZHbbvsQCD -n 60 -j 14 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500ext -r deepTagMD_ZHbbvsQCD -n 60 -j 15 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500ext -r deepTagMD_ZHbbvsQCD -n 60 -j 16 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500ext -r deepTagMD_ZHbbvsQCD -n 60 -j 17 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500ext -r deepTagMD_ZHbbvsQCD -n 60 -j 18 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500ext -r deepTagMD_ZHbbvsQCD -n 60 -j 19 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500ext -r deepTagMD_ZHbbvsQCD -n 60 -j 20 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500ext -r deepTagMD_ZHbbvsQCD -n 60 -j 21 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500ext -r deepTagMD_ZHbbvsQCD -n 60 -j 22 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500ext -r deepTagMD_ZHbbvsQCD -n 60 -j 23 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500ext -r deepTagMD_ZHbbvsQCD -n 60 -j 24 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500ext -r deepTagMD_ZHbbvsQCD -n 60 -j 25 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500ext -r deepTagMD_ZHbbvsQCD -n 60 -j 26 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500ext -r deepTagMD_ZHbbvsQCD -n 60 -j 27 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500ext -r deepTagMD_ZHbbvsQCD -n 60 -j 28 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500ext -r deepTagMD_ZHbbvsQCD -n 60 -j 29 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500ext -r deepTagMD_ZHbbvsQCD -n 60 -j 30 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500ext -r deepTagMD_ZHbbvsQCD -n 60 -j 31 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500ext -r deepTagMD_ZHbbvsQCD -n 60 -j 32 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500ext -r deepTagMD_ZHbbvsQCD -n 60 -j 33 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500ext -r deepTagMD_ZHbbvsQCD -n 60 -j 34 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500ext -r deepTagMD_ZHbbvsQCD -n 60 -j 35 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500ext -r deepTagMD_ZHbbvsQCD -n 60 -j 36 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500ext -r deepTagMD_ZHbbvsQCD -n 60 -j 37 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500ext -r deepTagMD_ZHbbvsQCD -n 60 -j 38 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500ext -r deepTagMD_ZHbbvsQCD -n 60 -j 39 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500ext -r deepTagMD_ZHbbvsQCD -n 60 -j 40 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500ext -r deepTagMD_ZHbbvsQCD -n 60 -j 41 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500ext -r deepTagMD_ZHbbvsQCD -n 60 -j 42 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500ext -r deepTagMD_ZHbbvsQCD -n 60 -j 43 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500ext -r deepTagMD_ZHbbvsQCD -n 60 -j 44 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500ext -r deepTagMD_ZHbbvsQCD -n 60 -j 45 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500ext -r deepTagMD_ZHbbvsQCD -n 60 -j 46 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500ext -r deepTagMD_ZHbbvsQCD -n 60 -j 47 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500ext -r deepTagMD_ZHbbvsQCD -n 60 -j 48 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500ext -r deepTagMD_ZHbbvsQCD -n 60 -j 49 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500ext -r deepTagMD_ZHbbvsQCD -n 60 -j 50 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500ext -r deepTagMD_ZHbbvsQCD -n 60 -j 51 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500ext -r deepTagMD_ZHbbvsQCD -n 60 -j 52 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500ext -r deepTagMD_ZHbbvsQCD -n 60 -j 53 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500ext -r deepTagMD_ZHbbvsQCD -n 60 -j 54 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500ext -r deepTagMD_ZHbbvsQCD -n 60 -j 55 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500ext -r deepTagMD_ZHbbvsQCD -n 60 -j 56 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500ext -r deepTagMD_ZHbbvsQCD -n 60 -j 57 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500ext -r deepTagMD_ZHbbvsQCD -n 60 -j 58 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500ext -r deepTagMD_ZHbbvsQCD -n 60 -j 59 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT1500ext -r deepTagMD_ZHbbvsQCD -n 60 -j 60 -y 16 -d deepTagMD_ZHbbvsQCD
+
+ -s QCDHT2000 -r deepTagMD_ZHbbvsQCD -n 40 -j 1 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT2000 -r deepTagMD_ZHbbvsQCD -n 40 -j 2 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT2000 -r deepTagMD_ZHbbvsQCD -n 40 -j 3 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT2000 -r deepTagMD_ZHbbvsQCD -n 40 -j 4 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT2000 -r deepTagMD_ZHbbvsQCD -n 40 -j 5 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT2000 -r deepTagMD_ZHbbvsQCD -n 40 -j 6 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT2000 -r deepTagMD_ZHbbvsQCD -n 40 -j 7 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT2000 -r deepTagMD_ZHbbvsQCD -n 40 -j 8 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT2000 -r deepTagMD_ZHbbvsQCD -n 40 -j 9 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT2000 -r deepTagMD_ZHbbvsQCD -n 40 -j 10 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT2000 -r deepTagMD_ZHbbvsQCD -n 40 -j 11 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT2000 -r deepTagMD_ZHbbvsQCD -n 40 -j 12 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT2000 -r deepTagMD_ZHbbvsQCD -n 40 -j 13 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT2000 -r deepTagMD_ZHbbvsQCD -n 40 -j 14 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT2000 -r deepTagMD_ZHbbvsQCD -n 40 -j 15 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT2000 -r deepTagMD_ZHbbvsQCD -n 40 -j 16 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT2000 -r deepTagMD_ZHbbvsQCD -n 40 -j 17 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT2000 -r deepTagMD_ZHbbvsQCD -n 40 -j 18 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT2000 -r deepTagMD_ZHbbvsQCD -n 40 -j 19 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT2000 -r deepTagMD_ZHbbvsQCD -n 40 -j 20 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT2000 -r deepTagMD_ZHbbvsQCD -n 40 -j 21 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT2000 -r deepTagMD_ZHbbvsQCD -n 40 -j 22 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT2000 -r deepTagMD_ZHbbvsQCD -n 40 -j 23 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT2000 -r deepTagMD_ZHbbvsQCD -n 40 -j 24 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT2000 -r deepTagMD_ZHbbvsQCD -n 40 -j 25 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT2000 -r deepTagMD_ZHbbvsQCD -n 40 -j 26 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT2000 -r deepTagMD_ZHbbvsQCD -n 40 -j 27 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT2000 -r deepTagMD_ZHbbvsQCD -n 40 -j 28 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT2000 -r deepTagMD_ZHbbvsQCD -n 40 -j 29 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT2000 -r deepTagMD_ZHbbvsQCD -n 40 -j 30 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT2000 -r deepTagMD_ZHbbvsQCD -n 40 -j 31 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT2000 -r deepTagMD_ZHbbvsQCD -n 40 -j 32 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT2000 -r deepTagMD_ZHbbvsQCD -n 40 -j 33 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT2000 -r deepTagMD_ZHbbvsQCD -n 40 -j 34 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT2000 -r deepTagMD_ZHbbvsQCD -n 40 -j 35 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT2000 -r deepTagMD_ZHbbvsQCD -n 40 -j 36 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT2000 -r deepTagMD_ZHbbvsQCD -n 40 -j 37 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT2000 -r deepTagMD_ZHbbvsQCD -n 40 -j 38 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT2000 -r deepTagMD_ZHbbvsQCD -n 40 -j 39 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT2000 -r deepTagMD_ZHbbvsQCD -n 40 -j 40 -y 16 -d deepTagMD_ZHbbvsQCD
+
+ -s QCDHT2000ext -r deepTagMD_ZHbbvsQCD -n 40 -j 1 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT2000ext -r deepTagMD_ZHbbvsQCD -n 40 -j 2 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT2000ext -r deepTagMD_ZHbbvsQCD -n 40 -j 3 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT2000ext -r deepTagMD_ZHbbvsQCD -n 40 -j 4 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT2000ext -r deepTagMD_ZHbbvsQCD -n 40 -j 5 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT2000ext -r deepTagMD_ZHbbvsQCD -n 40 -j 6 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT2000ext -r deepTagMD_ZHbbvsQCD -n 40 -j 7 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT2000ext -r deepTagMD_ZHbbvsQCD -n 40 -j 8 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT2000ext -r deepTagMD_ZHbbvsQCD -n 40 -j 9 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT2000ext -r deepTagMD_ZHbbvsQCD -n 40 -j 10 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT2000ext -r deepTagMD_ZHbbvsQCD -n 40 -j 11 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT2000ext -r deepTagMD_ZHbbvsQCD -n 40 -j 12 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT2000ext -r deepTagMD_ZHbbvsQCD -n 40 -j 13 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT2000ext -r deepTagMD_ZHbbvsQCD -n 40 -j 14 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT2000ext -r deepTagMD_ZHbbvsQCD -n 40 -j 15 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT2000ext -r deepTagMD_ZHbbvsQCD -n 40 -j 16 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT2000ext -r deepTagMD_ZHbbvsQCD -n 40 -j 17 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT2000ext -r deepTagMD_ZHbbvsQCD -n 40 -j 18 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT2000ext -r deepTagMD_ZHbbvsQCD -n 40 -j 19 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT2000ext -r deepTagMD_ZHbbvsQCD -n 40 -j 20 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT2000ext -r deepTagMD_ZHbbvsQCD -n 40 -j 21 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT2000ext -r deepTagMD_ZHbbvsQCD -n 40 -j 22 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT2000ext -r deepTagMD_ZHbbvsQCD -n 40 -j 23 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT2000ext -r deepTagMD_ZHbbvsQCD -n 40 -j 24 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT2000ext -r deepTagMD_ZHbbvsQCD -n 40 -j 25 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT2000ext -r deepTagMD_ZHbbvsQCD -n 40 -j 26 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT2000ext -r deepTagMD_ZHbbvsQCD -n 40 -j 27 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT2000ext -r deepTagMD_ZHbbvsQCD -n 40 -j 28 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT2000ext -r deepTagMD_ZHbbvsQCD -n 40 -j 29 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT2000ext -r deepTagMD_ZHbbvsQCD -n 40 -j 30 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT2000ext -r deepTagMD_ZHbbvsQCD -n 40 -j 31 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT2000ext -r deepTagMD_ZHbbvsQCD -n 40 -j 32 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT2000ext -r deepTagMD_ZHbbvsQCD -n 40 -j 33 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT2000ext -r deepTagMD_ZHbbvsQCD -n 40 -j 34 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT2000ext -r deepTagMD_ZHbbvsQCD -n 40 -j 35 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT2000ext -r deepTagMD_ZHbbvsQCD -n 40 -j 36 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT2000ext -r deepTagMD_ZHbbvsQCD -n 40 -j 37 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT2000ext -r deepTagMD_ZHbbvsQCD -n 40 -j 38 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT2000ext -r deepTagMD_ZHbbvsQCD -n 40 -j 39 -y 16 -d deepTagMD_ZHbbvsQCD
+ -s QCDHT2000ext -r deepTagMD_ZHbbvsQCD -n 40 -j 40 -y 16 -d deepTagMD_ZHbbvsQCD
+
+-s singletop -r deepTagMD_ZHbbvsQCD -n 20 -j 1 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singletop -r deepTagMD_ZHbbvsQCD -n 20 -j 2 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singletop -r deepTagMD_ZHbbvsQCD -n 20 -j 3 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singletop -r deepTagMD_ZHbbvsQCD -n 20 -j 4 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singletop -r deepTagMD_ZHbbvsQCD -n 20 -j 5 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singletop -r deepTagMD_ZHbbvsQCD -n 20 -j 6 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singletop -r deepTagMD_ZHbbvsQCD -n 20 -j 7 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singletop -r deepTagMD_ZHbbvsQCD -n 20 -j 8 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singletop -r deepTagMD_ZHbbvsQCD -n 20 -j 9 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singletop -r deepTagMD_ZHbbvsQCD -n 20 -j 10 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singletop -r deepTagMD_ZHbbvsQCD -n 20 -j 11 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singletop -r deepTagMD_ZHbbvsQCD -n 20 -j 12 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singletop -r deepTagMD_ZHbbvsQCD -n 20 -j 13 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singletop -r deepTagMD_ZHbbvsQCD -n 20 -j 14 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singletop -r deepTagMD_ZHbbvsQCD -n 20 -j 15 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singletop -r deepTagMD_ZHbbvsQCD -n 20 -j 16 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singletop -r deepTagMD_ZHbbvsQCD -n 20 -j 17 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singletop -r deepTagMD_ZHbbvsQCD -n 20 -j 18 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singletop -r deepTagMD_ZHbbvsQCD -n 20 -j 19 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singletop -r deepTagMD_ZHbbvsQCD -n 20 -j 20 -y 16 -d deepTagMD_ZHbbvsQCD
+
+-s singleantitop -r deepTagMD_ZHbbvsQCD -n 20 -j 1 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singleantitop -r deepTagMD_ZHbbvsQCD -n 20 -j 2 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singleantitop -r deepTagMD_ZHbbvsQCD -n 20 -j 3 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singleantitop -r deepTagMD_ZHbbvsQCD -n 20 -j 4 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singleantitop -r deepTagMD_ZHbbvsQCD -n 20 -j 5 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singleantitop -r deepTagMD_ZHbbvsQCD -n 20 -j 6 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singleantitop -r deepTagMD_ZHbbvsQCD -n 20 -j 7 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singleantitop -r deepTagMD_ZHbbvsQCD -n 20 -j 8 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singleantitop -r deepTagMD_ZHbbvsQCD -n 20 -j 9 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singleantitop -r deepTagMD_ZHbbvsQCD -n 20 -j 10 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singleantitop -r deepTagMD_ZHbbvsQCD -n 20 -j 11 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singleantitop -r deepTagMD_ZHbbvsQCD -n 20 -j 12 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singleantitop -r deepTagMD_ZHbbvsQCD -n 20 -j 13 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singleantitop -r deepTagMD_ZHbbvsQCD -n 20 -j 14 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singleantitop -r deepTagMD_ZHbbvsQCD -n 20 -j 15 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singleantitop -r deepTagMD_ZHbbvsQCD -n 20 -j 16 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singleantitop -r deepTagMD_ZHbbvsQCD -n 20 -j 17 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singleantitop -r deepTagMD_ZHbbvsQCD -n 20 -j 18 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singleantitop -r deepTagMD_ZHbbvsQCD -n 20 -j 19 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singleantitop -r deepTagMD_ZHbbvsQCD -n 20 -j 20 -y 16 -d deepTagMD_ZHbbvsQCD
+
+-s singletWtop -r deepTagMD_ZHbbvsQCD -n 20 -j 1 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singletWtop -r deepTagMD_ZHbbvsQCD -n 20 -j 2 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singletWtop -r deepTagMD_ZHbbvsQCD -n 20 -j 3 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singletWtop -r deepTagMD_ZHbbvsQCD -n 20 -j 4 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singletWtop -r deepTagMD_ZHbbvsQCD -n 20 -j 5 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singletWtop -r deepTagMD_ZHbbvsQCD -n 20 -j 6 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singletWtop -r deepTagMD_ZHbbvsQCD -n 20 -j 7 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singletWtop -r deepTagMD_ZHbbvsQCD -n 20 -j 8 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singletWtop -r deepTagMD_ZHbbvsQCD -n 20 -j 9 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singletWtop -r deepTagMD_ZHbbvsQCD -n 20 -j 10 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singletWtop -r deepTagMD_ZHbbvsQCD -n 20 -j 11 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singletWtop -r deepTagMD_ZHbbvsQCD -n 20 -j 12 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singletWtop -r deepTagMD_ZHbbvsQCD -n 20 -j 13 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singletWtop -r deepTagMD_ZHbbvsQCD -n 20 -j 14 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singletWtop -r deepTagMD_ZHbbvsQCD -n 20 -j 15 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singletWtop -r deepTagMD_ZHbbvsQCD -n 20 -j 16 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singletWtop -r deepTagMD_ZHbbvsQCD -n 20 -j 17 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singletWtop -r deepTagMD_ZHbbvsQCD -n 20 -j 18 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singletWtop -r deepTagMD_ZHbbvsQCD -n 20 -j 19 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singletWtop -r deepTagMD_ZHbbvsQCD -n 20 -j 20 -y 16 -d deepTagMD_ZHbbvsQCD
+
+-s singletWantitop -r deepTagMD_ZHbbvsQCD -n 20 -j 1 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singletWantitop -r deepTagMD_ZHbbvsQCD -n 20 -j 2 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singletWantitop -r deepTagMD_ZHbbvsQCD -n 20 -j 3 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singletWantitop -r deepTagMD_ZHbbvsQCD -n 20 -j 4 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singletWantitop -r deepTagMD_ZHbbvsQCD -n 20 -j 5 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singletWantitop -r deepTagMD_ZHbbvsQCD -n 20 -j 6 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singletWantitop -r deepTagMD_ZHbbvsQCD -n 20 -j 7 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singletWantitop -r deepTagMD_ZHbbvsQCD -n 20 -j 8 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singletWantitop -r deepTagMD_ZHbbvsQCD -n 20 -j 9 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singletWantitop -r deepTagMD_ZHbbvsQCD -n 20 -j 10 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singletWantitop -r deepTagMD_ZHbbvsQCD -n 20 -j 11 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singletWantitop -r deepTagMD_ZHbbvsQCD -n 20 -j 12 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singletWantitop -r deepTagMD_ZHbbvsQCD -n 20 -j 13 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singletWantitop -r deepTagMD_ZHbbvsQCD -n 20 -j 14 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singletWantitop -r deepTagMD_ZHbbvsQCD -n 20 -j 15 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singletWantitop -r deepTagMD_ZHbbvsQCD -n 20 -j 16 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singletWantitop -r deepTagMD_ZHbbvsQCD -n 20 -j 17 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singletWantitop -r deepTagMD_ZHbbvsQCD -n 20 -j 18 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singletWantitop -r deepTagMD_ZHbbvsQCD -n 20 -j 19 -y 16 -d deepTagMD_ZHbbvsQCD
+-s singletWantitop -r deepTagMD_ZHbbvsQCD -n 20 -j 20 -y 16 -d deepTagMD_ZHbbvsQCD
+
+-s ZZdiboson -r deepTagMD_ZHbbvsQCD -n 20 -j 1 -y 16 -d deepTagMD_ZHbbvsQCD
+-s ZZdiboson -r deepTagMD_ZHbbvsQCD -n 20 -j 2 -y 16 -d deepTagMD_ZHbbvsQCD
+-s ZZdiboson -r deepTagMD_ZHbbvsQCD -n 20 -j 3 -y 16 -d deepTagMD_ZHbbvsQCD
+-s ZZdiboson -r deepTagMD_ZHbbvsQCD -n 20 -j 4 -y 16 -d deepTagMD_ZHbbvsQCD
+-s ZZdiboson -r deepTagMD_ZHbbvsQCD -n 20 -j 5 -y 16 -d deepTagMD_ZHbbvsQCD
+-s ZZdiboson -r deepTagMD_ZHbbvsQCD -n 20 -j 6 -y 16 -d deepTagMD_ZHbbvsQCD
+-s ZZdiboson -r deepTagMD_ZHbbvsQCD -n 20 -j 7 -y 16 -d deepTagMD_ZHbbvsQCD
+-s ZZdiboson -r deepTagMD_ZHbbvsQCD -n 20 -j 8 -y 16 -d deepTagMD_ZHbbvsQCD
+-s ZZdiboson -r deepTagMD_ZHbbvsQCD -n 20 -j 9 -y 16 -d deepTagMD_ZHbbvsQCD
+-s ZZdiboson -r deepTagMD_ZHbbvsQCD -n 20 -j 10 -y 16 -d deepTagMD_ZHbbvsQCD
+-s ZZdiboson -r deepTagMD_ZHbbvsQCD -n 20 -j 11 -y 16 -d deepTagMD_ZHbbvsQCD
+-s ZZdiboson -r deepTagMD_ZHbbvsQCD -n 20 -j 12 -y 16 -d deepTagMD_ZHbbvsQCD
+-s ZZdiboson -r deepTagMD_ZHbbvsQCD -n 20 -j 13 -y 16 -d deepTagMD_ZHbbvsQCD
+-s ZZdiboson -r deepTagMD_ZHbbvsQCD -n 20 -j 14 -y 16 -d deepTagMD_ZHbbvsQCD
+-s ZZdiboson -r deepTagMD_ZHbbvsQCD -n 20 -j 15 -y 16 -d deepTagMD_ZHbbvsQCD
+-s ZZdiboson -r deepTagMD_ZHbbvsQCD -n 20 -j 16 -y 16 -d deepTagMD_ZHbbvsQCD
+-s ZZdiboson -r deepTagMD_ZHbbvsQCD -n 20 -j 17 -y 16 -d deepTagMD_ZHbbvsQCD
+-s ZZdiboson -r deepTagMD_ZHbbvsQCD -n 20 -j 18 -y 16 -d deepTagMD_ZHbbvsQCD
+-s ZZdiboson -r deepTagMD_ZHbbvsQCD -n 20 -j 19 -y 16 -d deepTagMD_ZHbbvsQCD
+-s ZZdiboson -r deepTagMD_ZHbbvsQCD -n 20 -j 20 -y 16 -d deepTagMD_ZHbbvsQCD
+
+-s WWdiboson -r deepTagMD_ZHbbvsQCD -n 20 -j 1 -y 16 -d deepTagMD_ZHbbvsQCD
+-s WWdiboson -r deepTagMD_ZHbbvsQCD -n 20 -j 2 -y 16 -d deepTagMD_ZHbbvsQCD
+-s WWdiboson -r deepTagMD_ZHbbvsQCD -n 20 -j 3 -y 16 -d deepTagMD_ZHbbvsQCD
+-s WWdiboson -r deepTagMD_ZHbbvsQCD -n 20 -j 4 -y 16 -d deepTagMD_ZHbbvsQCD
+-s WWdiboson -r deepTagMD_ZHbbvsQCD -n 20 -j 5 -y 16 -d deepTagMD_ZHbbvsQCD
+-s WWdiboson -r deepTagMD_ZHbbvsQCD -n 20 -j 6 -y 16 -d deepTagMD_ZHbbvsQCD
+-s WWdiboson -r deepTagMD_ZHbbvsQCD -n 20 -j 7 -y 16 -d deepTagMD_ZHbbvsQCD
+-s WWdiboson -r deepTagMD_ZHbbvsQCD -n 20 -j 8 -y 16 -d deepTagMD_ZHbbvsQCD
+-s WWdiboson -r deepTagMD_ZHbbvsQCD -n 20 -j 9 -y 16 -d deepTagMD_ZHbbvsQCD
+-s WWdiboson -r deepTagMD_ZHbbvsQCD -n 20 -j 10 -y 16 -d deepTagMD_ZHbbvsQCD
+-s WWdiboson -r deepTagMD_ZHbbvsQCD -n 20 -j 11 -y 16 -d deepTagMD_ZHbbvsQCD
+-s WWdiboson -r deepTagMD_ZHbbvsQCD -n 20 -j 12 -y 16 -d deepTagMD_ZHbbvsQCD
+-s WWdiboson -r deepTagMD_ZHbbvsQCD -n 20 -j 13 -y 16 -d deepTagMD_ZHbbvsQCD
+-s WWdiboson -r deepTagMD_ZHbbvsQCD -n 20 -j 14 -y 16 -d deepTagMD_ZHbbvsQCD
+-s WWdiboson -r deepTagMD_ZHbbvsQCD -n 20 -j 15 -y 16 -d deepTagMD_ZHbbvsQCD
+-s WWdiboson -r deepTagMD_ZHbbvsQCD -n 20 -j 16 -y 16 -d deepTagMD_ZHbbvsQCD
+-s WWdiboson -r deepTagMD_ZHbbvsQCD -n 20 -j 17 -y 16 -d deepTagMD_ZHbbvsQCD
+-s WWdiboson -r deepTagMD_ZHbbvsQCD -n 20 -j 18 -y 16 -d deepTagMD_ZHbbvsQCD
+-s WWdiboson -r deepTagMD_ZHbbvsQCD -n 20 -j 19 -y 16 -d deepTagMD_ZHbbvsQCD
+-s WWdiboson -r deepTagMD_ZHbbvsQCD -n 20 -j 20 -y 16 -d deepTagMD_ZHbbvsQCD
+
+-s dyjetstoll1jet -r deepTagMD_ZHbbvsQCD -n 20 -j 1 -y 16 -d deepTagMD_ZHbbvsQCD
+-s dyjetstoll1jet -r deepTagMD_ZHbbvsQCD -n 20 -j 2 -y 16 -d deepTagMD_ZHbbvsQCD
+-s dyjetstoll1jet -r deepTagMD_ZHbbvsQCD -n 20 -j 3 -y 16 -d deepTagMD_ZHbbvsQCD
+-s dyjetstoll1jet -r deepTagMD_ZHbbvsQCD -n 20 -j 4 -y 16 -d deepTagMD_ZHbbvsQCD
+-s dyjetstoll1jet -r deepTagMD_ZHbbvsQCD -n 20 -j 5 -y 16 -d deepTagMD_ZHbbvsQCD
+-s dyjetstoll1jet -r deepTagMD_ZHbbvsQCD -n 20 -j 6 -y 16 -d deepTagMD_ZHbbvsQCD
+-s dyjetstoll1jet -r deepTagMD_ZHbbvsQCD -n 20 -j 7 -y 16 -d deepTagMD_ZHbbvsQCD
+-s dyjetstoll1jet -r deepTagMD_ZHbbvsQCD -n 20 -j 8 -y 16 -d deepTagMD_ZHbbvsQCD
+-s dyjetstoll1jet -r deepTagMD_ZHbbvsQCD -n 20 -j 9 -y 16 -d deepTagMD_ZHbbvsQCD
+-s dyjetstoll1jet -r deepTagMD_ZHbbvsQCD -n 20 -j 10 -y 16 -d deepTagMD_ZHbbvsQCD
+-s dyjetstoll1jet -r deepTagMD_ZHbbvsQCD -n 20 -j 11 -y 16 -d deepTagMD_ZHbbvsQCD
+-s dyjetstoll1jet -r deepTagMD_ZHbbvsQCD -n 20 -j 12 -y 16 -d deepTagMD_ZHbbvsQCD
+-s dyjetstoll1jet -r deepTagMD_ZHbbvsQCD -n 20 -j 13 -y 16 -d deepTagMD_ZHbbvsQCD
+-s dyjetstoll1jet -r deepTagMD_ZHbbvsQCD -n 20 -j 14 -y 16 -d deepTagMD_ZHbbvsQCD
+-s dyjetstoll1jet -r deepTagMD_ZHbbvsQCD -n 20 -j 15 -y 16 -d deepTagMD_ZHbbvsQCD
+-s dyjetstoll1jet -r deepTagMD_ZHbbvsQCD -n 20 -j 16 -y 16 -d deepTagMD_ZHbbvsQCD
+-s dyjetstoll1jet -r deepTagMD_ZHbbvsQCD -n 20 -j 17 -y 16 -d deepTagMD_ZHbbvsQCD
+-s dyjetstoll1jet -r deepTagMD_ZHbbvsQCD -n 20 -j 18 -y 16 -d deepTagMD_ZHbbvsQCD
+-s dyjetstoll1jet -r deepTagMD_ZHbbvsQCD -n 20 -j 19 -y 16 -d deepTagMD_ZHbbvsQCD
+-s dyjetstoll1jet -r deepTagMD_ZHbbvsQCD -n 20 -j 20 -y 16 -d deepTagMD_ZHbbvsQCD
+
+-s wjetstolnu -r deepTagMD_ZHbbvsQCD -n 20 -j 1 -y 16 -d deepTagMD_ZHbbvsQCD
+-s wjetstolnu -r deepTagMD_ZHbbvsQCD -n 20 -j 2 -y 16 -d deepTagMD_ZHbbvsQCD
+-s wjetstolnu -r deepTagMD_ZHbbvsQCD -n 20 -j 3 -y 16 -d deepTagMD_ZHbbvsQCD
+-s wjetstolnu -r deepTagMD_ZHbbvsQCD -n 20 -j 4 -y 16 -d deepTagMD_ZHbbvsQCD
+-s wjetstolnu -r deepTagMD_ZHbbvsQCD -n 20 -j 5 -y 16 -d deepTagMD_ZHbbvsQCD
+-s wjetstolnu -r deepTagMD_ZHbbvsQCD -n 20 -j 6 -y 16 -d deepTagMD_ZHbbvsQCD
+-s wjetstolnu -r deepTagMD_ZHbbvsQCD -n 20 -j 7 -y 16 -d deepTagMD_ZHbbvsQCD
+-s wjetstolnu -r deepTagMD_ZHbbvsQCD -n 20 -j 8 -y 16 -d deepTagMD_ZHbbvsQCD
+-s wjetstolnu -r deepTagMD_ZHbbvsQCD -n 20 -j 9 -y 16 -d deepTagMD_ZHbbvsQCD
+-s wjetstolnu -r deepTagMD_ZHbbvsQCD -n 20 -j 10 -y 16 -d deepTagMD_ZHbbvsQCD
+-s wjetstolnu -r deepTagMD_ZHbbvsQCD -n 20 -j 11 -y 16 -d deepTagMD_ZHbbvsQCD
+-s wjetstolnu -r deepTagMD_ZHbbvsQCD -n 20 -j 12 -y 16 -d deepTagMD_ZHbbvsQCD
+-s wjetstolnu -r deepTagMD_ZHbbvsQCD -n 20 -j 13 -y 16 -d deepTagMD_ZHbbvsQCD
+-s wjetstolnu -r deepTagMD_ZHbbvsQCD -n 20 -j 14 -y 16 -d deepTagMD_ZHbbvsQCD
+-s wjetstolnu -r deepTagMD_ZHbbvsQCD -n 20 -j 15 -y 16 -d deepTagMD_ZHbbvsQCD
+-s wjetstolnu -r deepTagMD_ZHbbvsQCD -n 20 -j 16 -y 16 -d deepTagMD_ZHbbvsQCD
+-s wjetstolnu -r deepTagMD_ZHbbvsQCD -n 20 -j 17 -y 16 -d deepTagMD_ZHbbvsQCD
+-s wjetstolnu -r deepTagMD_ZHbbvsQCD -n 20 -j 18 -y 16 -d deepTagMD_ZHbbvsQCD
+-s wjetstolnu -r deepTagMD_ZHbbvsQCD -n 20 -j 19 -y 16 -d deepTagMD_ZHbbvsQCD
+-s wjetstolnu -r deepTagMD_ZHbbvsQCD -n 20 -j 20 -y 16 -d deepTagMD_ZHbbvsQCD
+

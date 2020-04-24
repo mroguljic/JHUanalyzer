@@ -1,0 +1,607 @@
+-s Zqq -r btagDDBvL -n 20 -j 1 -y 16 -d btagDDBvL
+-s Zqq -r btagDDBvL -n 20 -j 2 -y 16 -d btagDDBvL
+-s Zqq -r btagDDBvL -n 20 -j 3 -y 16 -d btagDDBvL
+-s Zqq -r btagDDBvL -n 20 -j 4 -y 16 -d btagDDBvL
+-s Zqq -r btagDDBvL -n 20 -j 5 -y 16 -d btagDDBvL
+-s Zqq -r btagDDBvL -n 20 -j 6 -y 16 -d btagDDBvL
+-s Zqq -r btagDDBvL -n 20 -j 7 -y 16 -d btagDDBvL
+-s Zqq -r btagDDBvL -n 20 -j 8 -y 16 -d btagDDBvL
+-s Zqq -r btagDDBvL -n 20 -j 9 -y 16 -d btagDDBvL
+-s Zqq -r btagDDBvL -n 20 -j 10 -y 16 -d btagDDBvL
+-s Zqq -r btagDDBvL -n 20 -j 11 -y 16 -d btagDDBvL
+-s Zqq -r btagDDBvL -n 20 -j 12 -y 16 -d btagDDBvL
+-s Zqq -r btagDDBvL -n 20 -j 13 -y 16 -d btagDDBvL
+-s Zqq -r btagDDBvL -n 20 -j 14 -y 16 -d btagDDBvL
+-s Zqq -r btagDDBvL -n 20 -j 15 -y 16 -d btagDDBvL
+-s Zqq -r btagDDBvL -n 20 -j 16 -y 16 -d btagDDBvL
+-s Zqq -r btagDDBvL -n 20 -j 17 -y 16 -d btagDDBvL
+-s Zqq -r btagDDBvL -n 20 -j 18 -y 16 -d btagDDBvL
+-s Zqq -r btagDDBvL -n 20 -j 19 -y 16 -d btagDDBvL
+-s Zqq -r btagDDBvL -n 20 -j 20 -y 16 -d btagDDBvL
+
+-s Wqq -r btagDDBvL -n 20 -j 1 -y 16 -d btagDDBvL
+-s Wqq -r btagDDBvL -n 20 -j 2 -y 16 -d btagDDBvL
+-s Wqq -r btagDDBvL -n 20 -j 3 -y 16 -d btagDDBvL
+-s Wqq -r btagDDBvL -n 20 -j 4 -y 16 -d btagDDBvL
+-s Wqq -r btagDDBvL -n 20 -j 5 -y 16 -d btagDDBvL
+-s Wqq -r btagDDBvL -n 20 -j 6 -y 16 -d btagDDBvL
+-s Wqq -r btagDDBvL -n 20 -j 7 -y 16 -d btagDDBvL
+-s Wqq -r btagDDBvL -n 20 -j 8 -y 16 -d btagDDBvL
+-s Wqq -r btagDDBvL -n 20 -j 9 -y 16 -d btagDDBvL
+-s Wqq -r btagDDBvL -n 20 -j 10 -y 16 -d btagDDBvL
+-s Wqq -r btagDDBvL -n 20 -j 11 -y 16 -d btagDDBvL
+-s Wqq -r btagDDBvL -n 20 -j 12 -y 16 -d btagDDBvL
+-s Wqq -r btagDDBvL -n 20 -j 13 -y 16 -d btagDDBvL
+-s Wqq -r btagDDBvL -n 20 -j 14 -y 16 -d btagDDBvL
+-s Wqq -r btagDDBvL -n 20 -j 15 -y 16 -d btagDDBvL
+-s Wqq -r btagDDBvL -n 20 -j 16 -y 16 -d btagDDBvL
+-s Wqq -r btagDDBvL -n 20 -j 17 -y 16 -d btagDDBvL
+-s Wqq -r btagDDBvL -n 20 -j 18 -y 16 -d btagDDBvL
+-s Wqq -r btagDDBvL -n 20 -j 19 -y 16 -d btagDDBvL
+-s Wqq -r btagDDBvL -n 20 -j 20 -y 16 -d btagDDBvL
+
+-s ttbar -r btagDDBvL -n 20 -j 1 -y 16 -d btagDDBvL
+-s ttbar -r btagDDBvL -n 20 -j 2 -y 16 -d btagDDBvL
+-s ttbar -r btagDDBvL -n 20 -j 3 -y 16 -d btagDDBvL
+-s ttbar -r btagDDBvL -n 20 -j 4 -y 16 -d btagDDBvL
+-s ttbar -r btagDDBvL -n 20 -j 5 -y 16 -d btagDDBvL
+-s ttbar -r btagDDBvL -n 20 -j 6 -y 16 -d btagDDBvL
+-s ttbar -r btagDDBvL -n 20 -j 7 -y 16 -d btagDDBvL
+-s ttbar -r btagDDBvL -n 20 -j 8 -y 16 -d btagDDBvL
+-s ttbar -r btagDDBvL -n 20 -j 9 -y 16 -d btagDDBvL
+-s ttbar -r btagDDBvL -n 20 -j 10 -y 16 -d btagDDBvL
+-s ttbar -r btagDDBvL -n 20 -j 11 -y 16 -d btagDDBvL
+-s ttbar -r btagDDBvL -n 20 -j 12 -y 16 -d btagDDBvL
+-s ttbar -r btagDDBvL -n 20 -j 13 -y 16 -d btagDDBvL
+-s ttbar -r btagDDBvL -n 20 -j 14 -y 16 -d btagDDBvL
+-s ttbar -r btagDDBvL -n 20 -j 15 -y 16 -d btagDDBvL
+-s ttbar -r btagDDBvL -n 20 -j 16 -y 16 -d btagDDBvL
+-s ttbar -r btagDDBvL -n 20 -j 17 -y 16 -d btagDDBvL
+-s ttbar -r btagDDBvL -n 20 -j 18 -y 16 -d btagDDBvL
+-s ttbar -r btagDDBvL -n 20 -j 19 -y 16 -d btagDDBvL
+-s ttbar -r btagDDBvL -n 20 -j 20 -y 16 -d btagDDBvL
+
+ -s dataB2 -r btagDDBvL -n 30 -j 1 -y 16 -d btagDDBvL
+ -s dataB2 -r btagDDBvL -n 30 -j 2 -y 16 -d btagDDBvL
+ -s dataB2 -r btagDDBvL -n 30 -j 3 -y 16 -d btagDDBvL
+ -s dataB2 -r btagDDBvL -n 30 -j 4 -y 16 -d btagDDBvL
+ -s dataB2 -r btagDDBvL -n 30 -j 5 -y 16 -d btagDDBvL
+ -s dataB2 -r btagDDBvL -n 30 -j 6 -y 16 -d btagDDBvL
+ -s dataB2 -r btagDDBvL -n 30 -j 7 -y 16 -d btagDDBvL
+ -s dataB2 -r btagDDBvL -n 30 -j 8 -y 16 -d btagDDBvL
+ -s dataB2 -r btagDDBvL -n 30 -j 9 -y 16 -d btagDDBvL
+ -s dataB2 -r btagDDBvL -n 30 -j 10 -y 16 -d btagDDBvL
+ -s dataB2 -r btagDDBvL -n 30 -j 11 -y 16 -d btagDDBvL
+ -s dataB2 -r btagDDBvL -n 30 -j 12 -y 16 -d btagDDBvL
+ -s dataB2 -r btagDDBvL -n 30 -j 13 -y 16 -d btagDDBvL
+ -s dataB2 -r btagDDBvL -n 30 -j 14 -y 16 -d btagDDBvL
+ -s dataB2 -r btagDDBvL -n 30 -j 15 -y 16 -d btagDDBvL
+ -s dataB2 -r btagDDBvL -n 30 -j 16 -y 16 -d btagDDBvL
+ -s dataB2 -r btagDDBvL -n 30 -j 17 -y 16 -d btagDDBvL
+ -s dataB2 -r btagDDBvL -n 30 -j 18 -y 16 -d btagDDBvL
+ -s dataB2 -r btagDDBvL -n 30 -j 19 -y 16 -d btagDDBvL
+ -s dataB2 -r btagDDBvL -n 30 -j 20 -y 16 -d btagDDBvL
+ -s dataB2 -r btagDDBvL -n 30 -j 21 -y 16 -d btagDDBvL
+ -s dataB2 -r btagDDBvL -n 30 -j 22 -y 16 -d btagDDBvL
+ -s dataB2 -r btagDDBvL -n 30 -j 23 -y 16 -d btagDDBvL
+ -s dataB2 -r btagDDBvL -n 30 -j 24 -y 16 -d btagDDBvL
+ -s dataB2 -r btagDDBvL -n 30 -j 25 -y 16 -d btagDDBvL
+ -s dataB2 -r btagDDBvL -n 30 -j 26 -y 16 -d btagDDBvL
+ -s dataB2 -r btagDDBvL -n 30 -j 27 -y 16 -d btagDDBvL
+ -s dataB2 -r btagDDBvL -n 30 -j 28 -y 16 -d btagDDBvL
+ -s dataB2 -r btagDDBvL -n 30 -j 29 -y 16 -d btagDDBvL
+ -s dataB2 -r btagDDBvL -n 30 -j 30 -y 16 -d btagDDBvL
+
+ -s dataC -r btagDDBvL -n 20 -j 1 -y 16 -d btagDDBvL
+ -s dataC -r btagDDBvL -n 20 -j 2 -y 16 -d btagDDBvL
+ -s dataC -r btagDDBvL -n 20 -j 3 -y 16 -d btagDDBvL
+ -s dataC -r btagDDBvL -n 20 -j 4 -y 16 -d btagDDBvL
+ -s dataC -r btagDDBvL -n 20 -j 5 -y 16 -d btagDDBvL
+ -s dataC -r btagDDBvL -n 20 -j 6 -y 16 -d btagDDBvL
+ -s dataC -r btagDDBvL -n 20 -j 7 -y 16 -d btagDDBvL
+ -s dataC -r btagDDBvL -n 20 -j 8 -y 16 -d btagDDBvL
+ -s dataC -r btagDDBvL -n 20 -j 9 -y 16 -d btagDDBvL
+ -s dataC -r btagDDBvL -n 20 -j 10 -y 16 -d btagDDBvL
+ -s dataC -r btagDDBvL -n 20 -j 11 -y 16 -d btagDDBvL
+ -s dataC -r btagDDBvL -n 20 -j 12 -y 16 -d btagDDBvL
+ -s dataC -r btagDDBvL -n 20 -j 13 -y 16 -d btagDDBvL
+ -s dataC -r btagDDBvL -n 20 -j 14 -y 16 -d btagDDBvL
+ -s dataC -r btagDDBvL -n 20 -j 15 -y 16 -d btagDDBvL
+ -s dataC -r btagDDBvL -n 20 -j 16 -y 16 -d btagDDBvL
+ -s dataC -r btagDDBvL -n 20 -j 17 -y 16 -d btagDDBvL
+ -s dataC -r btagDDBvL -n 20 -j 18 -y 16 -d btagDDBvL
+ -s dataC -r btagDDBvL -n 20 -j 19 -y 16 -d btagDDBvL
+ -s dataC -r btagDDBvL -n 20 -j 20 -y 16 -d btagDDBvL
+
+ -s dataD -r btagDDBvL -n 20 -j 1 -y 16 -d btagDDBvL
+ -s dataD -r btagDDBvL -n 20 -j 2 -y 16 -d btagDDBvL
+ -s dataD -r btagDDBvL -n 20 -j 3 -y 16 -d btagDDBvL
+ -s dataD -r btagDDBvL -n 20 -j 4 -y 16 -d btagDDBvL
+ -s dataD -r btagDDBvL -n 20 -j 5 -y 16 -d btagDDBvL
+ -s dataD -r btagDDBvL -n 20 -j 6 -y 16 -d btagDDBvL
+ -s dataD -r btagDDBvL -n 20 -j 7 -y 16 -d btagDDBvL
+ -s dataD -r btagDDBvL -n 20 -j 8 -y 16 -d btagDDBvL
+ -s dataD -r btagDDBvL -n 20 -j 9 -y 16 -d btagDDBvL
+ -s dataD -r btagDDBvL -n 20 -j 10 -y 16 -d btagDDBvL
+ -s dataD -r btagDDBvL -n 20 -j 11 -y 16 -d btagDDBvL
+ -s dataD -r btagDDBvL -n 20 -j 12 -y 16 -d btagDDBvL
+ -s dataD -r btagDDBvL -n 20 -j 13 -y 16 -d btagDDBvL
+ -s dataD -r btagDDBvL -n 20 -j 14 -y 16 -d btagDDBvL
+ -s dataD -r btagDDBvL -n 20 -j 15 -y 16 -d btagDDBvL
+ -s dataD -r btagDDBvL -n 20 -j 16 -y 16 -d btagDDBvL
+ -s dataD -r btagDDBvL -n 20 -j 17 -y 16 -d btagDDBvL
+ -s dataD -r btagDDBvL -n 20 -j 18 -y 16 -d btagDDBvL
+ -s dataD -r btagDDBvL -n 20 -j 19 -y 16 -d btagDDBvL
+ -s dataD -r btagDDBvL -n 20 -j 20 -y 16 -d btagDDBvL
+
+ -s dataE -r btagDDBvL -n 20 -j 1 -y 16 -d btagDDBvL
+ -s dataE -r btagDDBvL -n 20 -j 2 -y 16 -d btagDDBvL
+ -s dataE -r btagDDBvL -n 20 -j 3 -y 16 -d btagDDBvL
+ -s dataE -r btagDDBvL -n 20 -j 4 -y 16 -d btagDDBvL
+ -s dataE -r btagDDBvL -n 20 -j 5 -y 16 -d btagDDBvL
+ -s dataE -r btagDDBvL -n 20 -j 6 -y 16 -d btagDDBvL
+ -s dataE -r btagDDBvL -n 20 -j 7 -y 16 -d btagDDBvL
+ -s dataE -r btagDDBvL -n 20 -j 8 -y 16 -d btagDDBvL
+ -s dataE -r btagDDBvL -n 20 -j 9 -y 16 -d btagDDBvL
+ -s dataE -r btagDDBvL -n 20 -j 10 -y 16 -d btagDDBvL
+ -s dataE -r btagDDBvL -n 20 -j 11 -y 16 -d btagDDBvL
+ -s dataE -r btagDDBvL -n 20 -j 12 -y 16 -d btagDDBvL
+ -s dataE -r btagDDBvL -n 20 -j 13 -y 16 -d btagDDBvL
+ -s dataE -r btagDDBvL -n 20 -j 14 -y 16 -d btagDDBvL
+ -s dataE -r btagDDBvL -n 20 -j 15 -y 16 -d btagDDBvL
+ -s dataE -r btagDDBvL -n 20 -j 16 -y 16 -d btagDDBvL
+ -s dataE -r btagDDBvL -n 20 -j 17 -y 16 -d btagDDBvL
+ -s dataE -r btagDDBvL -n 20 -j 18 -y 16 -d btagDDBvL
+ -s dataE -r btagDDBvL -n 20 -j 19 -y 16 -d btagDDBvL
+ -s dataE -r btagDDBvL -n 20 -j 20 -y 16 -d btagDDBvL
+
+ -s dataF -r btagDDBvL -n 20 -j 1 -y 16 -d btagDDBvL
+ -s dataF -r btagDDBvL -n 20 -j 2 -y 16 -d btagDDBvL
+ -s dataF -r btagDDBvL -n 20 -j 3 -y 16 -d btagDDBvL
+ -s dataF -r btagDDBvL -n 20 -j 4 -y 16 -d btagDDBvL
+ -s dataF -r btagDDBvL -n 20 -j 5 -y 16 -d btagDDBvL
+ -s dataF -r btagDDBvL -n 20 -j 6 -y 16 -d btagDDBvL
+ -s dataF -r btagDDBvL -n 20 -j 7 -y 16 -d btagDDBvL
+ -s dataF -r btagDDBvL -n 20 -j 8 -y 16 -d btagDDBvL
+ -s dataF -r btagDDBvL -n 20 -j 9 -y 16 -d btagDDBvL
+ -s dataF -r btagDDBvL -n 20 -j 10 -y 16 -d btagDDBvL
+ -s dataF -r btagDDBvL -n 20 -j 11 -y 16 -d btagDDBvL
+ -s dataF -r btagDDBvL -n 20 -j 12 -y 16 -d btagDDBvL
+ -s dataF -r btagDDBvL -n 20 -j 13 -y 16 -d btagDDBvL
+ -s dataF -r btagDDBvL -n 20 -j 14 -y 16 -d btagDDBvL
+ -s dataF -r btagDDBvL -n 20 -j 15 -y 16 -d btagDDBvL
+ -s dataF -r btagDDBvL -n 20 -j 16 -y 16 -d btagDDBvL
+ -s dataF -r btagDDBvL -n 20 -j 17 -y 16 -d btagDDBvL
+ -s dataF -r btagDDBvL -n 20 -j 18 -y 16 -d btagDDBvL
+ -s dataF -r btagDDBvL -n 20 -j 19 -y 16 -d btagDDBvL
+ -s dataF -r btagDDBvL -n 20 -j 20 -y 16 -d btagDDBvL
+
+ -s dataG -r btagDDBvL -n 30 -j 1 -y 16 -d btagDDBvL
+ -s dataG -r btagDDBvL -n 30 -j 2 -y 16 -d btagDDBvL
+ -s dataG -r btagDDBvL -n 30 -j 3 -y 16 -d btagDDBvL
+ -s dataG -r btagDDBvL -n 30 -j 4 -y 16 -d btagDDBvL
+ -s dataG -r btagDDBvL -n 30 -j 5 -y 16 -d btagDDBvL
+ -s dataG -r btagDDBvL -n 30 -j 6 -y 16 -d btagDDBvL
+ -s dataG -r btagDDBvL -n 30 -j 7 -y 16 -d btagDDBvL
+ -s dataG -r btagDDBvL -n 30 -j 8 -y 16 -d btagDDBvL
+ -s dataG -r btagDDBvL -n 30 -j 9 -y 16 -d btagDDBvL
+ -s dataG -r btagDDBvL -n 30 -j 10 -y 16 -d btagDDBvL
+ -s dataG -r btagDDBvL -n 30 -j 11 -y 16 -d btagDDBvL
+ -s dataG -r btagDDBvL -n 30 -j 12 -y 16 -d btagDDBvL
+ -s dataG -r btagDDBvL -n 30 -j 13 -y 16 -d btagDDBvL
+ -s dataG -r btagDDBvL -n 30 -j 14 -y 16 -d btagDDBvL
+ -s dataG -r btagDDBvL -n 30 -j 15 -y 16 -d btagDDBvL
+ -s dataG -r btagDDBvL -n 30 -j 16 -y 16 -d btagDDBvL
+ -s dataG -r btagDDBvL -n 30 -j 17 -y 16 -d btagDDBvL
+ -s dataG -r btagDDBvL -n 30 -j 18 -y 16 -d btagDDBvL
+ -s dataG -r btagDDBvL -n 30 -j 19 -y 16 -d btagDDBvL
+ -s dataG -r btagDDBvL -n 30 -j 20 -y 16 -d btagDDBvL
+ -s dataG -r btagDDBvL -n 30 -j 21 -y 16 -d btagDDBvL
+ -s dataG -r btagDDBvL -n 30 -j 22 -y 16 -d btagDDBvL
+ -s dataG -r btagDDBvL -n 30 -j 23 -y 16 -d btagDDBvL
+ -s dataG -r btagDDBvL -n 30 -j 24 -y 16 -d btagDDBvL
+ -s dataG -r btagDDBvL -n 30 -j 25 -y 16 -d btagDDBvL
+ -s dataG -r btagDDBvL -n 30 -j 26 -y 16 -d btagDDBvL
+ -s dataG -r btagDDBvL -n 30 -j 27 -y 16 -d btagDDBvL
+ -s dataG -r btagDDBvL -n 30 -j 28 -y 16 -d btagDDBvL
+ -s dataG -r btagDDBvL -n 30 -j 29 -y 16 -d btagDDBvL
+ -s dataG -r btagDDBvL -n 30 -j 30 -y 16 -d btagDDBvL
+
+ -s dataH -r btagDDBvL -n 30 -j 1 -y 16 -d btagDDBvL
+ -s dataH -r btagDDBvL -n 30 -j 2 -y 16 -d btagDDBvL
+ -s dataH -r btagDDBvL -n 30 -j 3 -y 16 -d btagDDBvL
+ -s dataH -r btagDDBvL -n 30 -j 4 -y 16 -d btagDDBvL
+ -s dataH -r btagDDBvL -n 30 -j 5 -y 16 -d btagDDBvL
+ -s dataH -r btagDDBvL -n 30 -j 6 -y 16 -d btagDDBvL
+ -s dataH -r btagDDBvL -n 30 -j 7 -y 16 -d btagDDBvL
+ -s dataH -r btagDDBvL -n 30 -j 8 -y 16 -d btagDDBvL
+ -s dataH -r btagDDBvL -n 30 -j 9 -y 16 -d btagDDBvL
+ -s dataH -r btagDDBvL -n 30 -j 10 -y 16 -d btagDDBvL
+ -s dataH -r btagDDBvL -n 30 -j 11 -y 16 -d btagDDBvL
+ -s dataH -r btagDDBvL -n 30 -j 12 -y 16 -d btagDDBvL
+ -s dataH -r btagDDBvL -n 30 -j 13 -y 16 -d btagDDBvL
+ -s dataH -r btagDDBvL -n 30 -j 14 -y 16 -d btagDDBvL
+ -s dataH -r btagDDBvL -n 30 -j 15 -y 16 -d btagDDBvL
+ -s dataH -r btagDDBvL -n 30 -j 16 -y 16 -d btagDDBvL
+ -s dataH -r btagDDBvL -n 30 -j 17 -y 16 -d btagDDBvL
+ -s dataH -r btagDDBvL -n 30 -j 18 -y 16 -d btagDDBvL
+ -s dataH -r btagDDBvL -n 30 -j 19 -y 16 -d btagDDBvL
+ -s dataH -r btagDDBvL -n 30 -j 20 -y 16 -d btagDDBvL
+ -s dataH -r btagDDBvL -n 30 -j 21 -y 16 -d btagDDBvL
+ -s dataH -r btagDDBvL -n 30 -j 22 -y 16 -d btagDDBvL
+ -s dataH -r btagDDBvL -n 30 -j 23 -y 16 -d btagDDBvL
+ -s dataH -r btagDDBvL -n 30 -j 24 -y 16 -d btagDDBvL
+ -s dataH -r btagDDBvL -n 30 -j 25 -y 16 -d btagDDBvL
+ -s dataH -r btagDDBvL -n 30 -j 26 -y 16 -d btagDDBvL
+ -s dataH -r btagDDBvL -n 30 -j 27 -y 16 -d btagDDBvL
+ -s dataH -r btagDDBvL -n 30 -j 28 -y 16 -d btagDDBvL
+ -s dataH -r btagDDBvL -n 30 -j 29 -y 16 -d btagDDBvL
+ -s dataH -r btagDDBvL -n 30 -j 30 -y 16 -d btagDDBvL
+
+ -s QCDHT700 -r btagDDBvL -n 40 -j 1 -y 16 -d btagDDBvL
+ -s QCDHT700 -r btagDDBvL -n 40 -j 2 -y 16 -d btagDDBvL
+ -s QCDHT700 -r btagDDBvL -n 40 -j 3 -y 16 -d btagDDBvL
+ -s QCDHT700 -r btagDDBvL -n 40 -j 4 -y 16 -d btagDDBvL
+ -s QCDHT700 -r btagDDBvL -n 40 -j 5 -y 16 -d btagDDBvL
+ -s QCDHT700 -r btagDDBvL -n 40 -j 6 -y 16 -d btagDDBvL
+ -s QCDHT700 -r btagDDBvL -n 40 -j 7 -y 16 -d btagDDBvL
+ -s QCDHT700 -r btagDDBvL -n 40 -j 8 -y 16 -d btagDDBvL
+ -s QCDHT700 -r btagDDBvL -n 40 -j 9 -y 16 -d btagDDBvL
+ -s QCDHT700 -r btagDDBvL -n 40 -j 10 -y 16 -d btagDDBvL
+ -s QCDHT700 -r btagDDBvL -n 40 -j 11 -y 16 -d btagDDBvL
+ -s QCDHT700 -r btagDDBvL -n 40 -j 12 -y 16 -d btagDDBvL
+ -s QCDHT700 -r btagDDBvL -n 40 -j 13 -y 16 -d btagDDBvL
+ -s QCDHT700 -r btagDDBvL -n 40 -j 14 -y 16 -d btagDDBvL
+ -s QCDHT700 -r btagDDBvL -n 40 -j 15 -y 16 -d btagDDBvL
+ -s QCDHT700 -r btagDDBvL -n 40 -j 16 -y 16 -d btagDDBvL
+ -s QCDHT700 -r btagDDBvL -n 40 -j 17 -y 16 -d btagDDBvL
+ -s QCDHT700 -r btagDDBvL -n 40 -j 18 -y 16 -d btagDDBvL
+ -s QCDHT700 -r btagDDBvL -n 40 -j 19 -y 16 -d btagDDBvL
+ -s QCDHT700 -r btagDDBvL -n 40 -j 20 -y 16 -d btagDDBvL
+ -s QCDHT700 -r btagDDBvL -n 40 -j 21 -y 16 -d btagDDBvL
+ -s QCDHT700 -r btagDDBvL -n 40 -j 22 -y 16 -d btagDDBvL
+ -s QCDHT700 -r btagDDBvL -n 40 -j 23 -y 16 -d btagDDBvL
+ -s QCDHT700 -r btagDDBvL -n 40 -j 24 -y 16 -d btagDDBvL
+ -s QCDHT700 -r btagDDBvL -n 40 -j 25 -y 16 -d btagDDBvL
+ -s QCDHT700 -r btagDDBvL -n 40 -j 26 -y 16 -d btagDDBvL
+ -s QCDHT700 -r btagDDBvL -n 40 -j 27 -y 16 -d btagDDBvL
+ -s QCDHT700 -r btagDDBvL -n 40 -j 28 -y 16 -d btagDDBvL
+ -s QCDHT700 -r btagDDBvL -n 40 -j 29 -y 16 -d btagDDBvL
+ -s QCDHT700 -r btagDDBvL -n 40 -j 30 -y 16 -d btagDDBvL
+ -s QCDHT700 -r btagDDBvL -n 40 -j 31 -y 16 -d btagDDBvL
+ -s QCDHT700 -r btagDDBvL -n 40 -j 32 -y 16 -d btagDDBvL
+ -s QCDHT700 -r btagDDBvL -n 40 -j 33 -y 16 -d btagDDBvL
+ -s QCDHT700 -r btagDDBvL -n 40 -j 34 -y 16 -d btagDDBvL
+ -s QCDHT700 -r btagDDBvL -n 40 -j 35 -y 16 -d btagDDBvL
+ -s QCDHT700 -r btagDDBvL -n 40 -j 36 -y 16 -d btagDDBvL
+ -s QCDHT700 -r btagDDBvL -n 40 -j 37 -y 16 -d btagDDBvL
+ -s QCDHT700 -r btagDDBvL -n 40 -j 38 -y 16 -d btagDDBvL
+ -s QCDHT700 -r btagDDBvL -n 40 -j 39 -y 16 -d btagDDBvL
+ -s QCDHT700 -r btagDDBvL -n 40 -j 40 -y 16 -d btagDDBvL
+
+ -s QCDHT700ext -r btagDDBvL -n 40 -j 1 -y 16 -d btagDDBvL
+ -s QCDHT700ext -r btagDDBvL -n 40 -j 2 -y 16 -d btagDDBvL
+ -s QCDHT700ext -r btagDDBvL -n 40 -j 3 -y 16 -d btagDDBvL
+ -s QCDHT700ext -r btagDDBvL -n 40 -j 4 -y 16 -d btagDDBvL
+ -s QCDHT700ext -r btagDDBvL -n 40 -j 5 -y 16 -d btagDDBvL
+ -s QCDHT700ext -r btagDDBvL -n 40 -j 6 -y 16 -d btagDDBvL
+ -s QCDHT700ext -r btagDDBvL -n 40 -j 7 -y 16 -d btagDDBvL
+ -s QCDHT700ext -r btagDDBvL -n 40 -j 8 -y 16 -d btagDDBvL
+ -s QCDHT700ext -r btagDDBvL -n 40 -j 9 -y 16 -d btagDDBvL
+ -s QCDHT700ext -r btagDDBvL -n 40 -j 10 -y 16 -d btagDDBvL
+ -s QCDHT700ext -r btagDDBvL -n 40 -j 11 -y 16 -d btagDDBvL
+ -s QCDHT700ext -r btagDDBvL -n 40 -j 12 -y 16 -d btagDDBvL
+ -s QCDHT700ext -r btagDDBvL -n 40 -j 13 -y 16 -d btagDDBvL
+ -s QCDHT700ext -r btagDDBvL -n 40 -j 14 -y 16 -d btagDDBvL
+ -s QCDHT700ext -r btagDDBvL -n 40 -j 15 -y 16 -d btagDDBvL
+ -s QCDHT700ext -r btagDDBvL -n 40 -j 16 -y 16 -d btagDDBvL
+ -s QCDHT700ext -r btagDDBvL -n 40 -j 17 -y 16 -d btagDDBvL
+ -s QCDHT700ext -r btagDDBvL -n 40 -j 18 -y 16 -d btagDDBvL
+ -s QCDHT700ext -r btagDDBvL -n 40 -j 19 -y 16 -d btagDDBvL
+ -s QCDHT700ext -r btagDDBvL -n 40 -j 20 -y 16 -d btagDDBvL
+ -s QCDHT700ext -r btagDDBvL -n 40 -j 21 -y 16 -d btagDDBvL
+ -s QCDHT700ext -r btagDDBvL -n 40 -j 22 -y 16 -d btagDDBvL
+ -s QCDHT700ext -r btagDDBvL -n 40 -j 23 -y 16 -d btagDDBvL
+ -s QCDHT700ext -r btagDDBvL -n 40 -j 24 -y 16 -d btagDDBvL
+ -s QCDHT700ext -r btagDDBvL -n 40 -j 25 -y 16 -d btagDDBvL
+ -s QCDHT700ext -r btagDDBvL -n 40 -j 26 -y 16 -d btagDDBvL
+ -s QCDHT700ext -r btagDDBvL -n 40 -j 27 -y 16 -d btagDDBvL
+ -s QCDHT700ext -r btagDDBvL -n 40 -j 28 -y 16 -d btagDDBvL
+ -s QCDHT700ext -r btagDDBvL -n 40 -j 29 -y 16 -d btagDDBvL
+ -s QCDHT700ext -r btagDDBvL -n 40 -j 30 -y 16 -d btagDDBvL
+ -s QCDHT700ext -r btagDDBvL -n 40 -j 31 -y 16 -d btagDDBvL
+ -s QCDHT700ext -r btagDDBvL -n 40 -j 32 -y 16 -d btagDDBvL
+ -s QCDHT700ext -r btagDDBvL -n 40 -j 33 -y 16 -d btagDDBvL
+ -s QCDHT700ext -r btagDDBvL -n 40 -j 34 -y 16 -d btagDDBvL
+ -s QCDHT700ext -r btagDDBvL -n 40 -j 35 -y 16 -d btagDDBvL
+ -s QCDHT700ext -r btagDDBvL -n 40 -j 36 -y 16 -d btagDDBvL
+ -s QCDHT700ext -r btagDDBvL -n 40 -j 37 -y 16 -d btagDDBvL
+ -s QCDHT700ext -r btagDDBvL -n 40 -j 38 -y 16 -d btagDDBvL
+ -s QCDHT700ext -r btagDDBvL -n 40 -j 39 -y 16 -d btagDDBvL
+ -s QCDHT700ext -r btagDDBvL -n 40 -j 40 -y 16 -d btagDDBvL
+
+ -s QCDHT1000 -r btagDDBvL -n 40 -j 1 -y 16 -d btagDDBvL
+ -s QCDHT1000 -r btagDDBvL -n 40 -j 2 -y 16 -d btagDDBvL
+ -s QCDHT1000 -r btagDDBvL -n 40 -j 3 -y 16 -d btagDDBvL
+ -s QCDHT1000 -r btagDDBvL -n 40 -j 4 -y 16 -d btagDDBvL
+ -s QCDHT1000 -r btagDDBvL -n 40 -j 5 -y 16 -d btagDDBvL
+ -s QCDHT1000 -r btagDDBvL -n 40 -j 6 -y 16 -d btagDDBvL
+ -s QCDHT1000 -r btagDDBvL -n 40 -j 7 -y 16 -d btagDDBvL
+ -s QCDHT1000 -r btagDDBvL -n 40 -j 8 -y 16 -d btagDDBvL
+ -s QCDHT1000 -r btagDDBvL -n 40 -j 9 -y 16 -d btagDDBvL
+ -s QCDHT1000 -r btagDDBvL -n 40 -j 10 -y 16 -d btagDDBvL
+ -s QCDHT1000 -r btagDDBvL -n 40 -j 11 -y 16 -d btagDDBvL
+ -s QCDHT1000 -r btagDDBvL -n 40 -j 12 -y 16 -d btagDDBvL
+ -s QCDHT1000 -r btagDDBvL -n 40 -j 13 -y 16 -d btagDDBvL
+ -s QCDHT1000 -r btagDDBvL -n 40 -j 14 -y 16 -d btagDDBvL
+ -s QCDHT1000 -r btagDDBvL -n 40 -j 15 -y 16 -d btagDDBvL
+ -s QCDHT1000 -r btagDDBvL -n 40 -j 16 -y 16 -d btagDDBvL
+ -s QCDHT1000 -r btagDDBvL -n 40 -j 17 -y 16 -d btagDDBvL
+ -s QCDHT1000 -r btagDDBvL -n 40 -j 18 -y 16 -d btagDDBvL
+ -s QCDHT1000 -r btagDDBvL -n 40 -j 19 -y 16 -d btagDDBvL
+ -s QCDHT1000 -r btagDDBvL -n 40 -j 20 -y 16 -d btagDDBvL
+ -s QCDHT1000 -r btagDDBvL -n 40 -j 21 -y 16 -d btagDDBvL
+ -s QCDHT1000 -r btagDDBvL -n 40 -j 22 -y 16 -d btagDDBvL
+ -s QCDHT1000 -r btagDDBvL -n 40 -j 23 -y 16 -d btagDDBvL
+ -s QCDHT1000 -r btagDDBvL -n 40 -j 24 -y 16 -d btagDDBvL
+ -s QCDHT1000 -r btagDDBvL -n 40 -j 25 -y 16 -d btagDDBvL
+ -s QCDHT1000 -r btagDDBvL -n 40 -j 26 -y 16 -d btagDDBvL
+ -s QCDHT1000 -r btagDDBvL -n 40 -j 27 -y 16 -d btagDDBvL
+ -s QCDHT1000 -r btagDDBvL -n 40 -j 28 -y 16 -d btagDDBvL
+ -s QCDHT1000 -r btagDDBvL -n 40 -j 29 -y 16 -d btagDDBvL
+ -s QCDHT1000 -r btagDDBvL -n 40 -j 30 -y 16 -d btagDDBvL
+ -s QCDHT1000 -r btagDDBvL -n 40 -j 31 -y 16 -d btagDDBvL
+ -s QCDHT1000 -r btagDDBvL -n 40 -j 32 -y 16 -d btagDDBvL
+ -s QCDHT1000 -r btagDDBvL -n 40 -j 33 -y 16 -d btagDDBvL
+ -s QCDHT1000 -r btagDDBvL -n 40 -j 34 -y 16 -d btagDDBvL
+ -s QCDHT1000 -r btagDDBvL -n 40 -j 35 -y 16 -d btagDDBvL
+ -s QCDHT1000 -r btagDDBvL -n 40 -j 36 -y 16 -d btagDDBvL
+ -s QCDHT1000 -r btagDDBvL -n 40 -j 37 -y 16 -d btagDDBvL
+ -s QCDHT1000 -r btagDDBvL -n 40 -j 38 -y 16 -d btagDDBvL
+ -s QCDHT1000 -r btagDDBvL -n 40 -j 39 -y 16 -d btagDDBvL
+ -s QCDHT1000 -r btagDDBvL -n 40 -j 40 -y 16 -d btagDDBvL
+
+ -s QCDHT1000ext -r btagDDBvL -n 60 -j 1 -y 16 -d btagDDBvL
+ -s QCDHT1000ext -r btagDDBvL -n 60 -j 2 -y 16 -d btagDDBvL
+ -s QCDHT1000ext -r btagDDBvL -n 60 -j 3 -y 16 -d btagDDBvL
+ -s QCDHT1000ext -r btagDDBvL -n 60 -j 4 -y 16 -d btagDDBvL
+ -s QCDHT1000ext -r btagDDBvL -n 60 -j 5 -y 16 -d btagDDBvL
+ -s QCDHT1000ext -r btagDDBvL -n 60 -j 6 -y 16 -d btagDDBvL
+ -s QCDHT1000ext -r btagDDBvL -n 60 -j 7 -y 16 -d btagDDBvL
+ -s QCDHT1000ext -r btagDDBvL -n 60 -j 8 -y 16 -d btagDDBvL
+ -s QCDHT1000ext -r btagDDBvL -n 60 -j 9 -y 16 -d btagDDBvL
+ -s QCDHT1000ext -r btagDDBvL -n 60 -j 10 -y 16 -d btagDDBvL
+ -s QCDHT1000ext -r btagDDBvL -n 60 -j 11 -y 16 -d btagDDBvL
+ -s QCDHT1000ext -r btagDDBvL -n 60 -j 12 -y 16 -d btagDDBvL
+ -s QCDHT1000ext -r btagDDBvL -n 60 -j 13 -y 16 -d btagDDBvL
+ -s QCDHT1000ext -r btagDDBvL -n 60 -j 14 -y 16 -d btagDDBvL
+ -s QCDHT1000ext -r btagDDBvL -n 60 -j 15 -y 16 -d btagDDBvL
+ -s QCDHT1000ext -r btagDDBvL -n 60 -j 16 -y 16 -d btagDDBvL
+ -s QCDHT1000ext -r btagDDBvL -n 60 -j 17 -y 16 -d btagDDBvL
+ -s QCDHT1000ext -r btagDDBvL -n 60 -j 18 -y 16 -d btagDDBvL
+ -s QCDHT1000ext -r btagDDBvL -n 60 -j 19 -y 16 -d btagDDBvL
+ -s QCDHT1000ext -r btagDDBvL -n 60 -j 20 -y 16 -d btagDDBvL
+ -s QCDHT1000ext -r btagDDBvL -n 60 -j 21 -y 16 -d btagDDBvL
+ -s QCDHT1000ext -r btagDDBvL -n 60 -j 22 -y 16 -d btagDDBvL
+ -s QCDHT1000ext -r btagDDBvL -n 60 -j 23 -y 16 -d btagDDBvL
+ -s QCDHT1000ext -r btagDDBvL -n 60 -j 24 -y 16 -d btagDDBvL
+ -s QCDHT1000ext -r btagDDBvL -n 60 -j 25 -y 16 -d btagDDBvL
+ -s QCDHT1000ext -r btagDDBvL -n 60 -j 26 -y 16 -d btagDDBvL
+ -s QCDHT1000ext -r btagDDBvL -n 60 -j 27 -y 16 -d btagDDBvL
+ -s QCDHT1000ext -r btagDDBvL -n 60 -j 28 -y 16 -d btagDDBvL
+ -s QCDHT1000ext -r btagDDBvL -n 60 -j 29 -y 16 -d btagDDBvL
+ -s QCDHT1000ext -r btagDDBvL -n 60 -j 30 -y 16 -d btagDDBvL
+ -s QCDHT1000ext -r btagDDBvL -n 60 -j 31 -y 16 -d btagDDBvL
+ -s QCDHT1000ext -r btagDDBvL -n 60 -j 32 -y 16 -d btagDDBvL
+ -s QCDHT1000ext -r btagDDBvL -n 60 -j 33 -y 16 -d btagDDBvL
+ -s QCDHT1000ext -r btagDDBvL -n 60 -j 34 -y 16 -d btagDDBvL
+ -s QCDHT1000ext -r btagDDBvL -n 60 -j 35 -y 16 -d btagDDBvL
+ -s QCDHT1000ext -r btagDDBvL -n 60 -j 36 -y 16 -d btagDDBvL
+ -s QCDHT1000ext -r btagDDBvL -n 60 -j 37 -y 16 -d btagDDBvL
+ -s QCDHT1000ext -r btagDDBvL -n 60 -j 38 -y 16 -d btagDDBvL
+ -s QCDHT1000ext -r btagDDBvL -n 60 -j 39 -y 16 -d btagDDBvL
+ -s QCDHT1000ext -r btagDDBvL -n 60 -j 40 -y 16 -d btagDDBvL
+ -s QCDHT1000ext -r btagDDBvL -n 60 -j 41 -y 16 -d btagDDBvL
+ -s QCDHT1000ext -r btagDDBvL -n 60 -j 42 -y 16 -d btagDDBvL
+ -s QCDHT1000ext -r btagDDBvL -n 60 -j 43 -y 16 -d btagDDBvL
+ -s QCDHT1000ext -r btagDDBvL -n 60 -j 44 -y 16 -d btagDDBvL
+ -s QCDHT1000ext -r btagDDBvL -n 60 -j 45 -y 16 -d btagDDBvL
+ -s QCDHT1000ext -r btagDDBvL -n 60 -j 46 -y 16 -d btagDDBvL
+ -s QCDHT1000ext -r btagDDBvL -n 60 -j 47 -y 16 -d btagDDBvL
+ -s QCDHT1000ext -r btagDDBvL -n 60 -j 48 -y 16 -d btagDDBvL
+ -s QCDHT1000ext -r btagDDBvL -n 60 -j 49 -y 16 -d btagDDBvL
+ -s QCDHT1000ext -r btagDDBvL -n 60 -j 50 -y 16 -d btagDDBvL
+ -s QCDHT1000ext -r btagDDBvL -n 60 -j 51 -y 16 -d btagDDBvL
+ -s QCDHT1000ext -r btagDDBvL -n 60 -j 52 -y 16 -d btagDDBvL
+ -s QCDHT1000ext -r btagDDBvL -n 60 -j 53 -y 16 -d btagDDBvL
+ -s QCDHT1000ext -r btagDDBvL -n 60 -j 54 -y 16 -d btagDDBvL
+ -s QCDHT1000ext -r btagDDBvL -n 60 -j 55 -y 16 -d btagDDBvL
+ -s QCDHT1000ext -r btagDDBvL -n 60 -j 56 -y 16 -d btagDDBvL
+ -s QCDHT1000ext -r btagDDBvL -n 60 -j 57 -y 16 -d btagDDBvL
+ -s QCDHT1000ext -r btagDDBvL -n 60 -j 58 -y 16 -d btagDDBvL
+ -s QCDHT1000ext -r btagDDBvL -n 60 -j 59 -y 16 -d btagDDBvL
+ -s QCDHT1000ext -r btagDDBvL -n 60 -j 60 -y 16 -d btagDDBvL
+
+ -s QCDHT1500 -r btagDDBvL -n 40 -j 1 -y 16 -d btagDDBvL
+ -s QCDHT1500 -r btagDDBvL -n 40 -j 2 -y 16 -d btagDDBvL
+ -s QCDHT1500 -r btagDDBvL -n 40 -j 3 -y 16 -d btagDDBvL
+ -s QCDHT1500 -r btagDDBvL -n 40 -j 4 -y 16 -d btagDDBvL
+ -s QCDHT1500 -r btagDDBvL -n 40 -j 5 -y 16 -d btagDDBvL
+ -s QCDHT1500 -r btagDDBvL -n 40 -j 6 -y 16 -d btagDDBvL
+ -s QCDHT1500 -r btagDDBvL -n 40 -j 7 -y 16 -d btagDDBvL
+ -s QCDHT1500 -r btagDDBvL -n 40 -j 8 -y 16 -d btagDDBvL
+ -s QCDHT1500 -r btagDDBvL -n 40 -j 9 -y 16 -d btagDDBvL
+ -s QCDHT1500 -r btagDDBvL -n 40 -j 10 -y 16 -d btagDDBvL
+ -s QCDHT1500 -r btagDDBvL -n 40 -j 11 -y 16 -d btagDDBvL
+ -s QCDHT1500 -r btagDDBvL -n 40 -j 12 -y 16 -d btagDDBvL
+ -s QCDHT1500 -r btagDDBvL -n 40 -j 13 -y 16 -d btagDDBvL
+ -s QCDHT1500 -r btagDDBvL -n 40 -j 14 -y 16 -d btagDDBvL
+ -s QCDHT1500 -r btagDDBvL -n 40 -j 15 -y 16 -d btagDDBvL
+ -s QCDHT1500 -r btagDDBvL -n 40 -j 16 -y 16 -d btagDDBvL
+ -s QCDHT1500 -r btagDDBvL -n 40 -j 17 -y 16 -d btagDDBvL
+ -s QCDHT1500 -r btagDDBvL -n 40 -j 18 -y 16 -d btagDDBvL
+ -s QCDHT1500 -r btagDDBvL -n 40 -j 19 -y 16 -d btagDDBvL
+ -s QCDHT1500 -r btagDDBvL -n 40 -j 20 -y 16 -d btagDDBvL
+ -s QCDHT1500 -r btagDDBvL -n 40 -j 21 -y 16 -d btagDDBvL
+ -s QCDHT1500 -r btagDDBvL -n 40 -j 22 -y 16 -d btagDDBvL
+ -s QCDHT1500 -r btagDDBvL -n 40 -j 23 -y 16 -d btagDDBvL
+ -s QCDHT1500 -r btagDDBvL -n 40 -j 24 -y 16 -d btagDDBvL
+ -s QCDHT1500 -r btagDDBvL -n 40 -j 25 -y 16 -d btagDDBvL
+ -s QCDHT1500 -r btagDDBvL -n 40 -j 26 -y 16 -d btagDDBvL
+ -s QCDHT1500 -r btagDDBvL -n 40 -j 27 -y 16 -d btagDDBvL
+ -s QCDHT1500 -r btagDDBvL -n 40 -j 28 -y 16 -d btagDDBvL
+ -s QCDHT1500 -r btagDDBvL -n 40 -j 29 -y 16 -d btagDDBvL
+ -s QCDHT1500 -r btagDDBvL -n 40 -j 30 -y 16 -d btagDDBvL
+ -s QCDHT1500 -r btagDDBvL -n 40 -j 31 -y 16 -d btagDDBvL
+ -s QCDHT1500 -r btagDDBvL -n 40 -j 32 -y 16 -d btagDDBvL
+ -s QCDHT1500 -r btagDDBvL -n 40 -j 33 -y 16 -d btagDDBvL
+ -s QCDHT1500 -r btagDDBvL -n 40 -j 34 -y 16 -d btagDDBvL
+ -s QCDHT1500 -r btagDDBvL -n 40 -j 35 -y 16 -d btagDDBvL
+ -s QCDHT1500 -r btagDDBvL -n 40 -j 36 -y 16 -d btagDDBvL
+ -s QCDHT1500 -r btagDDBvL -n 40 -j 37 -y 16 -d btagDDBvL
+ -s QCDHT1500 -r btagDDBvL -n 40 -j 38 -y 16 -d btagDDBvL
+ -s QCDHT1500 -r btagDDBvL -n 40 -j 39 -y 16 -d btagDDBvL
+ -s QCDHT1500 -r btagDDBvL -n 40 -j 40 -y 16 -d btagDDBvL
+
+ -s QCDHT1500ext -r btagDDBvL -n 60 -j 1 -y 16 -d btagDDBvL
+ -s QCDHT1500ext -r btagDDBvL -n 60 -j 2 -y 16 -d btagDDBvL
+ -s QCDHT1500ext -r btagDDBvL -n 60 -j 3 -y 16 -d btagDDBvL
+ -s QCDHT1500ext -r btagDDBvL -n 60 -j 4 -y 16 -d btagDDBvL
+ -s QCDHT1500ext -r btagDDBvL -n 60 -j 5 -y 16 -d btagDDBvL
+ -s QCDHT1500ext -r btagDDBvL -n 60 -j 6 -y 16 -d btagDDBvL
+ -s QCDHT1500ext -r btagDDBvL -n 60 -j 7 -y 16 -d btagDDBvL
+ -s QCDHT1500ext -r btagDDBvL -n 60 -j 8 -y 16 -d btagDDBvL
+ -s QCDHT1500ext -r btagDDBvL -n 60 -j 9 -y 16 -d btagDDBvL
+ -s QCDHT1500ext -r btagDDBvL -n 60 -j 10 -y 16 -d btagDDBvL
+ -s QCDHT1500ext -r btagDDBvL -n 60 -j 11 -y 16 -d btagDDBvL
+ -s QCDHT1500ext -r btagDDBvL -n 60 -j 12 -y 16 -d btagDDBvL
+ -s QCDHT1500ext -r btagDDBvL -n 60 -j 13 -y 16 -d btagDDBvL
+ -s QCDHT1500ext -r btagDDBvL -n 60 -j 14 -y 16 -d btagDDBvL
+ -s QCDHT1500ext -r btagDDBvL -n 60 -j 15 -y 16 -d btagDDBvL
+ -s QCDHT1500ext -r btagDDBvL -n 60 -j 16 -y 16 -d btagDDBvL
+ -s QCDHT1500ext -r btagDDBvL -n 60 -j 17 -y 16 -d btagDDBvL
+ -s QCDHT1500ext -r btagDDBvL -n 60 -j 18 -y 16 -d btagDDBvL
+ -s QCDHT1500ext -r btagDDBvL -n 60 -j 19 -y 16 -d btagDDBvL
+ -s QCDHT1500ext -r btagDDBvL -n 60 -j 20 -y 16 -d btagDDBvL
+ -s QCDHT1500ext -r btagDDBvL -n 60 -j 21 -y 16 -d btagDDBvL
+ -s QCDHT1500ext -r btagDDBvL -n 60 -j 22 -y 16 -d btagDDBvL
+ -s QCDHT1500ext -r btagDDBvL -n 60 -j 23 -y 16 -d btagDDBvL
+ -s QCDHT1500ext -r btagDDBvL -n 60 -j 24 -y 16 -d btagDDBvL
+ -s QCDHT1500ext -r btagDDBvL -n 60 -j 25 -y 16 -d btagDDBvL
+ -s QCDHT1500ext -r btagDDBvL -n 60 -j 26 -y 16 -d btagDDBvL
+ -s QCDHT1500ext -r btagDDBvL -n 60 -j 27 -y 16 -d btagDDBvL
+ -s QCDHT1500ext -r btagDDBvL -n 60 -j 28 -y 16 -d btagDDBvL
+ -s QCDHT1500ext -r btagDDBvL -n 60 -j 29 -y 16 -d btagDDBvL
+ -s QCDHT1500ext -r btagDDBvL -n 60 -j 30 -y 16 -d btagDDBvL
+ -s QCDHT1500ext -r btagDDBvL -n 60 -j 31 -y 16 -d btagDDBvL
+ -s QCDHT1500ext -r btagDDBvL -n 60 -j 32 -y 16 -d btagDDBvL
+ -s QCDHT1500ext -r btagDDBvL -n 60 -j 33 -y 16 -d btagDDBvL
+ -s QCDHT1500ext -r btagDDBvL -n 60 -j 34 -y 16 -d btagDDBvL
+ -s QCDHT1500ext -r btagDDBvL -n 60 -j 35 -y 16 -d btagDDBvL
+ -s QCDHT1500ext -r btagDDBvL -n 60 -j 36 -y 16 -d btagDDBvL
+ -s QCDHT1500ext -r btagDDBvL -n 60 -j 37 -y 16 -d btagDDBvL
+ -s QCDHT1500ext -r btagDDBvL -n 60 -j 38 -y 16 -d btagDDBvL
+ -s QCDHT1500ext -r btagDDBvL -n 60 -j 39 -y 16 -d btagDDBvL
+ -s QCDHT1500ext -r btagDDBvL -n 60 -j 40 -y 16 -d btagDDBvL
+ -s QCDHT1500ext -r btagDDBvL -n 60 -j 41 -y 16 -d btagDDBvL
+ -s QCDHT1500ext -r btagDDBvL -n 60 -j 42 -y 16 -d btagDDBvL
+ -s QCDHT1500ext -r btagDDBvL -n 60 -j 43 -y 16 -d btagDDBvL
+ -s QCDHT1500ext -r btagDDBvL -n 60 -j 44 -y 16 -d btagDDBvL
+ -s QCDHT1500ext -r btagDDBvL -n 60 -j 45 -y 16 -d btagDDBvL
+ -s QCDHT1500ext -r btagDDBvL -n 60 -j 46 -y 16 -d btagDDBvL
+ -s QCDHT1500ext -r btagDDBvL -n 60 -j 47 -y 16 -d btagDDBvL
+ -s QCDHT1500ext -r btagDDBvL -n 60 -j 48 -y 16 -d btagDDBvL
+ -s QCDHT1500ext -r btagDDBvL -n 60 -j 49 -y 16 -d btagDDBvL
+ -s QCDHT1500ext -r btagDDBvL -n 60 -j 50 -y 16 -d btagDDBvL
+ -s QCDHT1500ext -r btagDDBvL -n 60 -j 51 -y 16 -d btagDDBvL
+ -s QCDHT1500ext -r btagDDBvL -n 60 -j 52 -y 16 -d btagDDBvL
+ -s QCDHT1500ext -r btagDDBvL -n 60 -j 53 -y 16 -d btagDDBvL
+ -s QCDHT1500ext -r btagDDBvL -n 60 -j 54 -y 16 -d btagDDBvL
+ -s QCDHT1500ext -r btagDDBvL -n 60 -j 55 -y 16 -d btagDDBvL
+ -s QCDHT1500ext -r btagDDBvL -n 60 -j 56 -y 16 -d btagDDBvL
+ -s QCDHT1500ext -r btagDDBvL -n 60 -j 57 -y 16 -d btagDDBvL
+ -s QCDHT1500ext -r btagDDBvL -n 60 -j 58 -y 16 -d btagDDBvL
+ -s QCDHT1500ext -r btagDDBvL -n 60 -j 59 -y 16 -d btagDDBvL
+ -s QCDHT1500ext -r btagDDBvL -n 60 -j 60 -y 16 -d btagDDBvL
+
+ -s QCDHT2000 -r btagDDBvL -n 40 -j 1 -y 16 -d btagDDBvL
+ -s QCDHT2000 -r btagDDBvL -n 40 -j 2 -y 16 -d btagDDBvL
+ -s QCDHT2000 -r btagDDBvL -n 40 -j 3 -y 16 -d btagDDBvL
+ -s QCDHT2000 -r btagDDBvL -n 40 -j 4 -y 16 -d btagDDBvL
+ -s QCDHT2000 -r btagDDBvL -n 40 -j 5 -y 16 -d btagDDBvL
+ -s QCDHT2000 -r btagDDBvL -n 40 -j 6 -y 16 -d btagDDBvL
+ -s QCDHT2000 -r btagDDBvL -n 40 -j 7 -y 16 -d btagDDBvL
+ -s QCDHT2000 -r btagDDBvL -n 40 -j 8 -y 16 -d btagDDBvL
+ -s QCDHT2000 -r btagDDBvL -n 40 -j 9 -y 16 -d btagDDBvL
+ -s QCDHT2000 -r btagDDBvL -n 40 -j 10 -y 16 -d btagDDBvL
+ -s QCDHT2000 -r btagDDBvL -n 40 -j 11 -y 16 -d btagDDBvL
+ -s QCDHT2000 -r btagDDBvL -n 40 -j 12 -y 16 -d btagDDBvL
+ -s QCDHT2000 -r btagDDBvL -n 40 -j 13 -y 16 -d btagDDBvL
+ -s QCDHT2000 -r btagDDBvL -n 40 -j 14 -y 16 -d btagDDBvL
+ -s QCDHT2000 -r btagDDBvL -n 40 -j 15 -y 16 -d btagDDBvL
+ -s QCDHT2000 -r btagDDBvL -n 40 -j 16 -y 16 -d btagDDBvL
+ -s QCDHT2000 -r btagDDBvL -n 40 -j 17 -y 16 -d btagDDBvL
+ -s QCDHT2000 -r btagDDBvL -n 40 -j 18 -y 16 -d btagDDBvL
+ -s QCDHT2000 -r btagDDBvL -n 40 -j 19 -y 16 -d btagDDBvL
+ -s QCDHT2000 -r btagDDBvL -n 40 -j 20 -y 16 -d btagDDBvL
+ -s QCDHT2000 -r btagDDBvL -n 40 -j 21 -y 16 -d btagDDBvL
+ -s QCDHT2000 -r btagDDBvL -n 40 -j 22 -y 16 -d btagDDBvL
+ -s QCDHT2000 -r btagDDBvL -n 40 -j 23 -y 16 -d btagDDBvL
+ -s QCDHT2000 -r btagDDBvL -n 40 -j 24 -y 16 -d btagDDBvL
+ -s QCDHT2000 -r btagDDBvL -n 40 -j 25 -y 16 -d btagDDBvL
+ -s QCDHT2000 -r btagDDBvL -n 40 -j 26 -y 16 -d btagDDBvL
+ -s QCDHT2000 -r btagDDBvL -n 40 -j 27 -y 16 -d btagDDBvL
+ -s QCDHT2000 -r btagDDBvL -n 40 -j 28 -y 16 -d btagDDBvL
+ -s QCDHT2000 -r btagDDBvL -n 40 -j 29 -y 16 -d btagDDBvL
+ -s QCDHT2000 -r btagDDBvL -n 40 -j 30 -y 16 -d btagDDBvL
+ -s QCDHT2000 -r btagDDBvL -n 40 -j 31 -y 16 -d btagDDBvL
+ -s QCDHT2000 -r btagDDBvL -n 40 -j 32 -y 16 -d btagDDBvL
+ -s QCDHT2000 -r btagDDBvL -n 40 -j 33 -y 16 -d btagDDBvL
+ -s QCDHT2000 -r btagDDBvL -n 40 -j 34 -y 16 -d btagDDBvL
+ -s QCDHT2000 -r btagDDBvL -n 40 -j 35 -y 16 -d btagDDBvL
+ -s QCDHT2000 -r btagDDBvL -n 40 -j 36 -y 16 -d btagDDBvL
+ -s QCDHT2000 -r btagDDBvL -n 40 -j 37 -y 16 -d btagDDBvL
+ -s QCDHT2000 -r btagDDBvL -n 40 -j 38 -y 16 -d btagDDBvL
+ -s QCDHT2000 -r btagDDBvL -n 40 -j 39 -y 16 -d btagDDBvL
+ -s QCDHT2000 -r btagDDBvL -n 40 -j 40 -y 16 -d btagDDBvL
+
+ -s QCDHT2000ext -r btagDDBvL -n 40 -j 1 -y 16 -d btagDDBvL
+ -s QCDHT2000ext -r btagDDBvL -n 40 -j 2 -y 16 -d btagDDBvL
+ -s QCDHT2000ext -r btagDDBvL -n 40 -j 3 -y 16 -d btagDDBvL
+ -s QCDHT2000ext -r btagDDBvL -n 40 -j 4 -y 16 -d btagDDBvL
+ -s QCDHT2000ext -r btagDDBvL -n 40 -j 5 -y 16 -d btagDDBvL
+ -s QCDHT2000ext -r btagDDBvL -n 40 -j 6 -y 16 -d btagDDBvL
+ -s QCDHT2000ext -r btagDDBvL -n 40 -j 7 -y 16 -d btagDDBvL
+ -s QCDHT2000ext -r btagDDBvL -n 40 -j 8 -y 16 -d btagDDBvL
+ -s QCDHT2000ext -r btagDDBvL -n 40 -j 9 -y 16 -d btagDDBvL
+ -s QCDHT2000ext -r btagDDBvL -n 40 -j 10 -y 16 -d btagDDBvL
+ -s QCDHT2000ext -r btagDDBvL -n 40 -j 11 -y 16 -d btagDDBvL
+ -s QCDHT2000ext -r btagDDBvL -n 40 -j 12 -y 16 -d btagDDBvL
+ -s QCDHT2000ext -r btagDDBvL -n 40 -j 13 -y 16 -d btagDDBvL
+ -s QCDHT2000ext -r btagDDBvL -n 40 -j 14 -y 16 -d btagDDBvL
+ -s QCDHT2000ext -r btagDDBvL -n 40 -j 15 -y 16 -d btagDDBvL
+ -s QCDHT2000ext -r btagDDBvL -n 40 -j 16 -y 16 -d btagDDBvL
+ -s QCDHT2000ext -r btagDDBvL -n 40 -j 17 -y 16 -d btagDDBvL
+ -s QCDHT2000ext -r btagDDBvL -n 40 -j 18 -y 16 -d btagDDBvL
+ -s QCDHT2000ext -r btagDDBvL -n 40 -j 19 -y 16 -d btagDDBvL
+ -s QCDHT2000ext -r btagDDBvL -n 40 -j 20 -y 16 -d btagDDBvL
+ -s QCDHT2000ext -r btagDDBvL -n 40 -j 21 -y 16 -d btagDDBvL
+ -s QCDHT2000ext -r btagDDBvL -n 40 -j 22 -y 16 -d btagDDBvL
+ -s QCDHT2000ext -r btagDDBvL -n 40 -j 23 -y 16 -d btagDDBvL
+ -s QCDHT2000ext -r btagDDBvL -n 40 -j 24 -y 16 -d btagDDBvL
+ -s QCDHT2000ext -r btagDDBvL -n 40 -j 25 -y 16 -d btagDDBvL
+ -s QCDHT2000ext -r btagDDBvL -n 40 -j 26 -y 16 -d btagDDBvL
+ -s QCDHT2000ext -r btagDDBvL -n 40 -j 27 -y 16 -d btagDDBvL
+ -s QCDHT2000ext -r btagDDBvL -n 40 -j 28 -y 16 -d btagDDBvL
+ -s QCDHT2000ext -r btagDDBvL -n 40 -j 29 -y 16 -d btagDDBvL
+ -s QCDHT2000ext -r btagDDBvL -n 40 -j 30 -y 16 -d btagDDBvL
+ -s QCDHT2000ext -r btagDDBvL -n 40 -j 31 -y 16 -d btagDDBvL
+ -s QCDHT2000ext -r btagDDBvL -n 40 -j 32 -y 16 -d btagDDBvL
+ -s QCDHT2000ext -r btagDDBvL -n 40 -j 33 -y 16 -d btagDDBvL
+ -s QCDHT2000ext -r btagDDBvL -n 40 -j 34 -y 16 -d btagDDBvL
+ -s QCDHT2000ext -r btagDDBvL -n 40 -j 35 -y 16 -d btagDDBvL
+ -s QCDHT2000ext -r btagDDBvL -n 40 -j 36 -y 16 -d btagDDBvL
+ -s QCDHT2000ext -r btagDDBvL -n 40 -j 37 -y 16 -d btagDDBvL
+ -s QCDHT2000ext -r btagDDBvL -n 40 -j 38 -y 16 -d btagDDBvL
+ -s QCDHT2000ext -r btagDDBvL -n 40 -j 39 -y 16 -d btagDDBvL
+ -s QCDHT2000ext -r btagDDBvL -n 40 -j 40 -y 16 -d btagDDBvL
