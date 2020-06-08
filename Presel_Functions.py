@@ -165,7 +165,8 @@ def CorrectMSD(jet,subJets,puppisd_corrGEN,puppisd_corrRECO_cen,puppisd_corrRECO
 #This needs to be updated whenever new Ntuples are produced (unless the file locations are the same).
 def Load_jetNano(string,year):
     print 'running on ' + string 
-    return 'root://cmseos.fnal.gov//store/user/dbrehm/data18andTTbarSignalMC/rootfiles/'+string+'_hh'+year+'.root'
+    #return 'root://cmseos.fnal.gov//store/user/dbrehm/data18andTTbarSignalMC/rootfiles/'+string+'_hh'+year+'.root'
+    return 'root://cmseos.fnal.gov//store/group/lpctlbsm/dbrehm/HH4bv5/'+string+'_hh'+year+'.root'
 
 def PDF_Lookup(pdfs , pdfOP ):
     # Computes the variance of the pdf weights to estimate the up and down uncertainty for each set (event)

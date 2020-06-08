@@ -555,8 +555,8 @@ if __name__ == "__main__":
                     maxdeepcsv = candidateAK4s[i].btagDeepB
             #if Cuts['deepbtag'][0] < maxdeepcsv < Cuts['deepbtag'][1]: # check if any of the leading 4 with deepbtag within that range
             #0.2219 0.6324 0.8958
-            #if 0.2219 < maxdeepcsv < 1: 
-            if 0.6324 < maxdeepcsv < 1:
+            if 0.2219 < maxdeepcsv < 1:  #tight?
+            #if 0.6324 < maxdeepcsv < 1: #medium
                 Hbbsel['TTbarCut'] = False
 
         # MET cut
