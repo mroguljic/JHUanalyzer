@@ -7,7 +7,7 @@ tar xzf 10XwithNano.tgz
 rm 10XwithNano.tgz
 cd CMSSW_10_2_13/src
 eval `scramv1 runtime -sh`
-git clone https://github.com/cmantill/JHUanalyzer.git -b cmantillHbb
+git clone https://github.com/mroguljic/JHUanalyzer.git -b matejHbb
 cd ../..
 
 mkdir tardir; cp tarball.tgz tardir/; cd tardir
