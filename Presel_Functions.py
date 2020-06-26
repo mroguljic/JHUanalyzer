@@ -168,7 +168,7 @@ def CorrectMSD(jet,subJets,puppisd_corrGEN,puppisd_corrRECO_cen,puppisd_corrRECO
     
     if groomedP4 != None:
        #groomedP4.SetPtEtaPhiM(groomedP4.Perp(), groomedP4.Eta(), groomedP4.Phi(), groomedP4.M()*puppisd_total)
-        groomedP4.SetPt(groomedP4.Perp())
+        groomedP4.SetPt(groomedP4.Pt())
         groomedP4.SetPhi(groomedP4.Phi())
         groomedP4.SetEta(groomedP4.Eta())
         groomedP4.SetM(groomedP4.M()*puppisd_total)
