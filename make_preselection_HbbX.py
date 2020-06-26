@@ -69,6 +69,8 @@ if __name__ == "__main__":
                     dest      =   'doublebtagger',
                     help      =   'Variable name in NanoAOD for double b tagger to be used. btagHbb (default), deepTagMD_HbbvsQCD, deepTagMD_ZHbbvsQCD, btagDDBvL')
     
+    print("IMPORTING ROOT FROM: ")
+    print(ROOT.__file__)
 
     (options, args) = parser.parse_args()
     print('run with options')
@@ -575,8 +577,12 @@ if __name__ == "__main__":
         tau21ddt = tau21 + 0.080*math.log((Hbbmsd**2)/Hbbpt)
         Hbbsel['tau21ddt'] = tau21ddt < Cuts['tau21ddt'][1]
 
-        jet0 = TLorentzVector(); jet0.SetPtEtaPhiM(ak8JetsColl[0].pt_nom, ak8JetsColl[0].eta, ak8JetsColl[0].phi, Hbbmsd)
-
+        jet0 = TLorentzVector()
+        jet0.SetPtEtaPhiM(ak8JetsColl[0].pt_nom, ak8JetsColl[0].eta, ak8JetsColl[0].phi, Hbbmsd)        
+        # jet0.SetPt(ak8JetsColl[0].pt_nom)
+        # jet0.SetEta(ak8JetsColl[0].eta)
+        # jet0.SetPhi(ak8JetsColl[0].phi)
+        # jet0.SetM(Hbbmsd)
         # match jet
         Hbbsel['unmatched'] = False
         Hbbsel['semimatched'] = False
