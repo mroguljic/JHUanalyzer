@@ -131,14 +131,14 @@ def CorrectMSD(jet,subJets,puppisd_corrGEN,puppisd_corrRECO_cen,puppisd_corrRECO
     jets_msoftdrop_nom = 0.0
     if jet.subJetIdx1 >= 0 and jet.subJetIdx2 >= 0 :
         j1 = subJets[ jet.subJetIdx1 ].p4()
-        j1_uncorr = j1
+        j1_uncorr = ROOT.Math.PtEtaPhiMVector()
         #j1_uncorr.SetPtEtaPhiM(j1.Pt()*(1-jet.rawFactor), j1.Eta(), j1.Phi(), j1.M()*(1-jet.rawFactor))
         j1_uncorr.SetPt(j1.Pt()*(1-jet.rawFactor))
         j1_uncorr.SetEta(j1.Eta())
         j1_uncorr.SetPhi(j1.Phi())
         j1_uncorr.SetM(j1.M()*(1-jet.rawFactor))
         j2 = subJets[ jet.subJetIdx2 ].p4()
-        j2_uncorr = j2
+        j2_uncorr = ROOT.Math.PtEtaPhiMVector()
         #j2_uncorr.SetPtEtaPhiM(j2.Pt()*(1-jet.rawFactor), j2.Eta(), j2.Phi(), j2.M()*(1-jet.rawFactor))
         j2_uncorr.SetPt(j2.Pt()*(1-jet.rawFactor))
         j2_uncorr.SetEta(j2.Eta())

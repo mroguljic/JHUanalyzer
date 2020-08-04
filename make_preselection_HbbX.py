@@ -179,14 +179,14 @@ if __name__ == "__main__":
     puppisd_corrGEN.SetParameter(1, -1.06161)
     puppisd_corrGEN.SetParameter(2,0.0799900)
     puppisd_corrGEN.SetParameter(3,1.20454)
-    puppisd_corrRECO_cen = ROOT.TF1("corrRECO_cen", "[0]+[1]*x+[2]*pow(x,2)+[3]*pow(x,3)+[4]*pow(x,4)+[5]*pow(x,5)",200, 3500)
+    puppisd_corrRECO_cen = ROOT.TF1("corrRECO_cen", "0.95*([0]+[1]*x+[2]*pow(x,2)+[3]*pow(x,3)+[4]*pow(x,4)+[5]*pow(x,5))",200, 3500)
     puppisd_corrRECO_cen.SetParameter(0,1.09302)
     puppisd_corrRECO_cen.SetParameter(1,-0.000150068)
     puppisd_corrRECO_cen.SetParameter(2,3.44866e-07)
     puppisd_corrRECO_cen.SetParameter(3,-2.68100e-10)
     puppisd_corrRECO_cen.SetParameter(4,8.67440e-14)
     puppisd_corrRECO_cen.SetParameter(5,-1.00114e-17)
-    puppisd_corrRECO_for = ROOT.TF1("corrRECO_for", "[0]+[1]*x+[2]*pow(x,2)+[3]*pow(x,3)+[4]*pow(x,4)+[5]*pow(x,5)",200, 3500)
+    puppisd_corrRECO_for = ROOT.TF1("corrRECO_for", "0.95*([0]+[1]*x+[2]*pow(x,2)+[3]*pow(x,3)+[4]*pow(x,4)+[5]*pow(x,5))",200, 3500)
     puppisd_corrRECO_for.SetParameter(0,1.27212)
     puppisd_corrRECO_for.SetParameter(1,-0.000571640)
     puppisd_corrRECO_for.SetParameter(2,8.37289e-07)
@@ -288,9 +288,9 @@ if __name__ == "__main__":
     # Make new file for storage #
     #############################
     if jobs!=1:
-        f = TFile( "Hbbpreselection"+options.year+"_"+options.set+"_job"+options.job+"of"+options.njobs+mod+'_'+doubleB_short+'_'+options.region+".root", "recreate" )
+        f = TFile( "/afs/cern.ch/user/m/mrogulji/store/matej/0.95/Hbbpreselection"+options.year+"_"+options.set+"_job"+options.job+"of"+options.njobs+mod+'_'+doubleB_short+'_'+options.region+".root", "recreate" )
     else:
-        f = TFile( "Hbbpreselection"+options.year+"_"+options.set+mod+'_'+doubleB_short+'_'+options.region+".root", "recreate" )
+        f = TFile( "/afs/cern.ch/user/m/mrogulji/store/matej/0.95/Hbbpreselection"+options.year+"_"+options.set+mod+'_'+doubleB_short+'_'+options.region+".root", "recreate" )
     f.cd()
 
     ###################
@@ -529,8 +529,10 @@ if __name__ == "__main__":
         Hbbpt = ak8JetsColl[0].pt_nom
 
         # mass selection
-        #Hbbmsd = ak8JetsColl[0].msoftdrop_nom
-        Hbbmsd = CorrectMSD(ak8JetsColl[0],ak8subJetsColl,puppisd_corrGEN,puppisd_corrRECO_cen,puppisd_corrRECO_for)
+        if isData:
+            Hbbmsd = ak8JetsColl[0].msoftdrop_nom
+        else:
+            Hbbmsd = CorrectMSD(ak8JetsColl[0],ak8subJetsColl,puppisd_corrGEN,puppisd_corrRECO_cen,puppisd_corrRECO_for)
         if Hbbmsd < 20: continue
         Hbbsel['msd'] = Hbbmsd > 40
 
