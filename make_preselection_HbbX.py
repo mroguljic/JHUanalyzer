@@ -288,9 +288,9 @@ if __name__ == "__main__":
     # Make new file for storage #
     #############################
     if jobs!=1:
-        f = TFile( "/afs/cern.ch/user/m/mrogulji/store/matej/ddb/0.89/Hbbpreselection"+options.year+"_"+options.set+"_job"+options.job+"of"+options.njobs+mod+'_'+doubleB_short+'_'+options.region+".root", "recreate" )
+        f = TFile( "/afs/cern.ch/user/m/mrogulji/2020/Zbb/CristinaInstructions/CMSSW_10_2_13/src/JHUanalyzer/condorResults/Hbbpreselection"+options.year+"_"+options.set+"_job"+options.job+"of"+options.njobs+mod+'_'+doubleB_short+'_'+options.region+".root", "recreate" )
     else:
-        f = TFile( "/afs/cern.ch/user/m/mrogulji/store/matej/ddb/0.89/Hbbpreselection"+options.year+"_"+options.set+mod+'_'+doubleB_short+'_'+options.region+".root", "recreate" )
+        f = TFile( "/afs/cern.ch/user/m/mrogulji/2020/Zbb/CristinaInstructions/CMSSW_10_2_13/src/JHUanalyzer/condorResults/Hbbpreselection"+options.year+"_"+options.set+mod+'_'+doubleB_short+'_'+options.region+".root", "recreate" )
     f.cd()
 
     ###################
