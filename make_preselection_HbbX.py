@@ -385,6 +385,8 @@ if __name__ == "__main__":
                         hists[wp]['%s_%s'%(cat,sys)] = TH2F("%s_%s%s_%s"%(hname,wp,cat,sys), "mass of Hbb vs pT - %s %s %s"%(cat,sys,wp), len(Mass_binBoundaries)-1, array('d', Mass_binBoundaries), len(Pt_binBoundaries)-1, array('d', Pt_binBoundaries) )
                         hists[wp]['%s_%s'%(cat,sys)].Sumw2()  
 
+    h_taggerVsMass = TH2F("%s_mass_vs_doubleB"%(hname), "mass of Hbb vs doubleB discriminator - %s"%(hname),23,40,201,50,0.,1.,)
+
     print("Histograms booked")
     ###############################
     # Grab root file that we want #
@@ -711,6 +713,7 @@ if __name__ == "__main__":
             Hbb_n2ddt_new.Fill(n2ddt_new,norm_weight*Weightify(weights,'nominal'))
             Hbb_tau21.Fill(tau21,norm_weight*Weightify(weights,'nominal'))
             Hbb_tau21ddt.Fill(tau21ddt,norm_weight*Weightify(weights,'nominal'))
+            h_taggerVsMass.Fill(jet0.M(),getattr(ak8JetsColl[0],doubleB_name),norm_weight*Weightify(weights,'nominal'))
             if ak8JetsColl[0].pt_nom > 450:
                 Hbb_pT_450.Fill(jet0.Pt(),norm_weight*Weightify(weights,'nominal'))
                 Hbb_mSD_450.Fill(jet0.M(),norm_weight*Weightify(weights,'nominal'))
