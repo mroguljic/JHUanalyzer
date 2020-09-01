@@ -721,6 +721,10 @@ if __name__ == "__main__":
         ######################################### 
         # Check preselection #
         ######################################### 
+
+        if(getattr(ak8JetsColl[0],doubleB_name)<0.2):
+            continue
+
         if preselection:
             for wp in WPs:
                 for cat in ['pass','fail']:
