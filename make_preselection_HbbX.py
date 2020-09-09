@@ -418,6 +418,7 @@ if __name__ == "__main__":
         xsec = Cons[options.set.replace('ext','')+'_xsec']
         norm_weight = lumi*xsec/float(nevents_gen)
         print(nevents_gen)
+        print("Norm weight for {0}: {1}".format(options.set,norm_weight))
 
     #####################################
     # Design the splitting if necessary #
@@ -642,29 +643,29 @@ if __name__ == "__main__":
         #preselection = Hbbsel['pT'] and Hbbsel['msd'] and Hbbsel['rho'] and Hbbsel['jetIds'] and not Hbbsel['leptonExists'] and Hbbsel['TTbarCut'] and Hbbsel['MET'] and Hbbsel['tau21ddt'] 
         preselection = Hbbsel['pT'] and Hbbsel['msd'] and Hbbsel['rho'] and Hbbsel['jetIds'] and not Hbbsel['leptonExists'] and Hbbsel['TTbarCut'] and Hbbsel['MET'] and Hbbsel['n2ddt_new'] 
         if not isData:
-            Hbb_cutflow.Fill(1)
+            Hbb_cutflow.Fill(1,norm_weight)
             if Hbbsel['pT']:
-                Hbb_cutflow.Fill(2)
+                Hbb_cutflow.Fill(2,norm_weight)
                 if Hbbsel['rho']:
-                    Hbb_cutflow.Fill(3)
+                    Hbb_cutflow.Fill(3,norm_weight)
                     if not Hbbsel['leptonExists']:
-                        Hbb_cutflow.Fill(4)
+                        Hbb_cutflow.Fill(4,norm_weight)
                         if Hbbsel['TTbarCut']:
-                            Hbb_cutflow.Fill(5)
+                            Hbb_cutflow.Fill(5,norm_weight)
                             if Hbbsel['MET']:
-                                Hbb_cutflow.Fill(6)
+                                Hbb_cutflow.Fill(6,norm_weight)
                                 if Hbbsel['n2ddt']: # this is not applied
-                                    Hbb_cutflow.Fill(7)
+                                    Hbb_cutflow.Fill(7,norm_weight)
                                 if Hbbsel['tau21ddt']: # this goes in the middle
-                                    Hbb_cutflow.Fill(9)
+                                    Hbb_cutflow.Fill(9,norm_weight)
                                 if Hbbsel['n2ddt_new']: # this is not applied                                                                                                     
-                                    Hbb_cutflow.Fill(8)
+                                    Hbb_cutflow.Fill(8,norm_weight)
                                     if Hbbsel['pass_L']: # this is for loose W/Z templates
-                                        Hbb_cutflow.Fill(10)
+                                        Hbb_cutflow.Fill(10,norm_weight)
                                         if Hbbsel['pass_M']:
-                                            Hbb_cutflow.Fill(11) # this is the current working point
+                                            Hbb_cutflow.Fill(11,norm_weight) # this is the current working point
                                             if Hbbsel['pass_T']:
-                                                Hbb_cutflow.Fill(12)
+                                                Hbb_cutflow.Fill(12,norm_weight)
         
         #########################################
         # Weights
