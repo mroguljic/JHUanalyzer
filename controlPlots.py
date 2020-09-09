@@ -90,14 +90,18 @@ def makeCanvasComparisonStackWData(hd,hb,legname,color,style,outname,lumi=30,nor
                 h.Scale( scalefactor );
 
     hstack2 = ROOT.THStack("hstack2","hstack2");
+    tempFile = ROOT.TFile("test.root","UPDATE")
+    tempFile.cd()
+    hd.Write()
     for name, h in sorted(hb.iteritems(),key=lambda (k,v): v.Integral()):
         hstack2.Add(h);
+        h.Write()
         h.SetFillColor(color[name])
         h.SetLineColor(1)
         h.SetLineStyle(1)
         h.SetLineWidth(1)
         h.SetFillStyle(1001)
-
+    tempFile.Close()
     leg_y = 0.88 - (2+int(len(hb)/3))*0.03
     leg = ROOT.TLegend(0.2,leg_y,0.5,0.88) 
     leg.SetFillStyle(0)
@@ -287,10 +291,10 @@ def main(options,args):
         plots = [
             'h_Lpass',
             'h_Mpass',
-            #'h_Tpass',
+            'h_Tpass',
             'h_Lfail',
             'h_Mfail',
-            #'h_Tfail',
+            'h_Tfail',
             #'h_cutflow',
             #'h_doubleB',
             'h_deepAK8',
@@ -364,7 +368,7 @@ def main(options,args):
     hnew = {}
     hnew['L'] = {}
     hnew['M'] = {}
-    #hnew['T'] = {}
+    hnew['T'] = {}
     for plot in plots:
         print(plot)
         hb = {}; hb2d = {}
@@ -403,7 +407,8 @@ def main(options,args):
             ratio = makeCanvasComparisonStackWData(hd,hb,legname,color,style,plot.replace('h_','stack_'),lumi,normalize='qcd')
 
         print(hb.keys())
-        for wp in ['L','M']: # ['L','M','T']:
+        for wp in ['L','M','T']: # ['L','M','T']:
+            print(wp)
             if plot=='h_%spass'%wp or plot=='h_%sfail'%wp:
                 for key in hb.keys():
                     hnew[wp][key+plot] = hb2d[key].Clone(hb2d[key].GetName().replace(wp,''))
@@ -419,6 +424,7 @@ def main(options,args):
                     for process in bkgSamples:
                         #if process in ['qcd','stqq','vvqq']: continue
                         if process in ['qcd']: continue
+                        print(plot.replace('h_',process+'_')+'_'+var)
                         hnew[wp][var+plot+process] = ofile.Get(plot.replace('h_',process+'_')+'_'+var).Clone(plot.replace('h_',process+'_').replace(wp,'')+'_'+var)
                         hnew[wp][var+plot+process].SetDirectory(0)
 
@@ -426,7 +432,9 @@ def main(options,args):
     hqcd.SetDirectory(0)
     ofile.Close()
 
-    for wp in ['M']:
+    #print(hnew['L'])
+    print(hnew['T'])
+    for wp in ['M','T']:
         newfile = ROOT.TFile.Open(ifile.replace('.root','_%s.root'%wp),'RECREATE')
         for key,h in hnew[wp].iteritems():
             h.Write()
