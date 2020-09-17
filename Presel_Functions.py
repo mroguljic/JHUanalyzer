@@ -115,9 +115,9 @@ def LoadCuts(region,year):
 
     # double-check these values
     if region=='deepTagMD_ZHbbvsQCD':
-        cuts['doublebtag'] = [0.8,1.0]
-        cuts['doublebtagTight'] = [0.9,1.0]
-        cuts['doublebtagLoose'] = [0.7,1.0]
+        cuts['doublebtag'] = [0.9,1.0]
+        cuts['doublebtagTight'] = [0.95,1.0]
+        cuts['doublebtagLoose'] = [0.8,1.0]
 
     if region=='btagDDBvL':
         cuts['doublebtag'] = [0.89,1.0] #medium
