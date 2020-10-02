@@ -246,9 +246,9 @@ if __name__ == "__main__":
     # Make new file for storage #
     #############################
     if jobs!=1:
-        f = TFile( "HbbSM"+options.year+"_"+options.set+"_job"+options.job+"of"+options.njobs+mod+'_'+doubleB_short+'_'+options.region+".root", "recreate" )
+        f = TFile( "/afs/cern.ch/user/m/mrogulji/2020/Zbb/CristinaInstructions/CMSSW_10_2_13/src/JHUanalyzer/condorResults/HbbSM"+options.year+"_"+options.set+"_job"+options.job+"of"+options.njobs+mod+'_'+doubleB_short+'_'+options.region+".root", "recreate" )
     else:
-        f = TFile( "HbbSM"+options.year+"_"+options.set+mod+'_'+doubleB_short+'_'+options.region+".root", "recreate" )
+        f = TFile( "/afs/cern.ch/user/m/mrogulji/2020/Zbb/CristinaInstructions/CMSSW_10_2_13/src/JHUanalyzer/condorResults/HbbSM"+options.year+"_"+options.set+mod+'_'+doubleB_short+'_'+options.region+".root", "recreate" )
     f.cd()
 
     ###################
@@ -692,6 +692,10 @@ if __name__ == "__main__":
         ######################################### 
         # Check preselection #
         ######################################### 
+
+        if(getattr(ak8JetsColl[0],doubleB_name)<0.2):
+            continue
+
         if preselection:
             #print('filling')
             for wp in WPs:
