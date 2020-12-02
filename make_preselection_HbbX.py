@@ -288,9 +288,9 @@ if __name__ == "__main__":
     # Make new file for storage #
     #############################
     if jobs!=1:
-        f = TFile( "/afs/cern.ch/work/m/mrogulji/Zbb/templates/Hbbpreselection"+options.year+"_"+options.set+"_job"+options.job+"of"+options.njobs+mod+'_'+doubleB_short+'_'+options.region+".root", "recreate" )
+        f = TFile( "/afs/cern.ch/work/m/mrogulji/Zbb/templates/withN2DDT_inclusiveFail/Hbbpreselection"+options.year+"_"+options.set+"_job"+options.job+"of"+options.njobs+mod+'_'+doubleB_short+'_'+options.region+".root", "recreate" )
     else:
-        f = TFile( "/afs/cern.ch/work/m/mrogulji/Zbb/templates/Hbbpreselection"+options.year+"_"+options.set+mod+'_'+doubleB_short+'_'+options.region+".root", "recreate" )
+        f = TFile( "/afs/cern.ch/work/m/mrogulji/Zbb/templates/withN2DDT_inclusiveFail/Hbbpreselection"+options.year+"_"+options.set+mod+'_'+doubleB_short+'_'+options.region+".root", "recreate" )
     f.cd()
 
     ###################
@@ -641,7 +641,7 @@ if __name__ == "__main__":
 
         # define preselection
         #preselection = Hbbsel['pT'] and Hbbsel['msd'] and Hbbsel['rho'] and Hbbsel['jetIds'] and not Hbbsel['leptonExists'] and Hbbsel['TTbarCut'] and Hbbsel['MET'] and Hbbsel['tau21ddt'] 
-        preselection = Hbbsel['pT'] and Hbbsel['msd'] and Hbbsel['rho'] and Hbbsel['jetIds'] and not Hbbsel['leptonExists'] and Hbbsel['TTbarCut'] and Hbbsel['MET']# and Hbbsel['n2ddt_new'] 
+        preselection = Hbbsel['pT'] and Hbbsel['msd'] and Hbbsel['rho'] and Hbbsel['jetIds'] and not Hbbsel['leptonExists'] and Hbbsel['TTbarCut'] and Hbbsel['MET'] and Hbbsel['n2ddt_new'] 
         if not isData:
             Hbb_cutflow.Fill(1,norm_weight)
             if Hbbsel['pT']:
@@ -723,8 +723,8 @@ if __name__ == "__main__":
         # Check preselection #
         ######################################### 
 
-        if(getattr(ak8JetsColl[0],doubleB_name)<0.2):
-            continue
+        # if(getattr(ak8JetsColl[0],doubleB_name)<0.2):
+        #     continue
 
         if preselection:
             for wp in WPs:
